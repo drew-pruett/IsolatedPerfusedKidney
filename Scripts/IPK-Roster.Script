@@ -1,0 +1,14 @@
+<roster>
+<var><name> System.X </name></var>
+<var><name> RightGlomerulusFiltrate.GFR </name></var>
+<var><name> RightCollectingDuct_H2O.Outflow </name></var>
+<var><name> RightGlomerulusSodium.GFR </name></var>
+<var><name> RightCollectingDuct_Na.Rate </name></var>
+<var><name> External.[K+(mEq/L)]  </name></var>
+<var><name> RightCollectingDuct_K.Rate </name></var>
+<var><name> RightKidney-Flow.PlasmaFlow </name></var>
+<var><name> RightReninSecretion.Rate </name></var>
+<var><name> RightKidney-Flow.Conductance </name></var>
+<var><name> RightGlomerulusFiltrate.FiltrationFraction </name></var>
+</roster>
+

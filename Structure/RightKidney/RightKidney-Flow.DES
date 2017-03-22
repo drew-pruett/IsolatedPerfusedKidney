@@ -49,7 +49,7 @@ By : University Of Mississippi Medical Center
 
 <def>
   <name> PlasmaFlow </name>
-  <val> ( 1 - External.Hct )  * BloodFlow </val>
+  <val> ( 1 - External.Hct  )  * BloodFlow </val>
 </def>
 
 </block>

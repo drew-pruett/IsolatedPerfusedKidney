@@ -1,0 +1,5863 @@
+Timestamp : 3/22/2017 1:27:45 PM
+<ics>
+<var>
+  <name> System.DefaultDx </name>
+  <val> Undefined </val>
+</var>
+<var>
+  <name> System.DisplayInterval </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> System.Dx </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> System.Pi </name>
+  <val> 3.1416 </val>
+</var>
+<var>
+  <name> System.SolutionInterval </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> System.Starting </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> System.Tries </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> System.Steps </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> System.Retries </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> System.StopAt </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> System.X </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> System.InitialX </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> System.BiggestDx </name>
+  <val> Undefined </val>
+</var>
+<var>
+  <name> System.SmallestDx </name>
+  <val> Undefined </val>
+</var>
+<var>
+  <name> System.ElapsedTime </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> System.IntegrationError </name>
+  <val> Undefined </val>
+</var>
+<var>
+  <name> System.WhiteNoise </name>
+  <val> 0.88772455225127 </val>
+</var>
+<var>
+  <name> System.NormalDistribution </name>
+  <val> -0.947674676223041 </val>
+</var>
+<var>
+  <name> RightKidney-EfferentArtery.Conductance </name>
+  <val> 16.2386843731136 </val>
+</var>
+<var>
+  <name> RightKidney-EfferentArtery.BasicConductance </name>
+  <val> 12.9542 </val>
+</var>
+<var>
+  <name> RightKidney-EfferentArtery.Multiplier </name>
+  <val> 1 </val>
+</var>
+<var>
+  <name> RightKidney-EfferentArtery.NominalConductance </name>
+  <val> 12.9542 </val>
+</var>
+<var>
+  <name> RightKidney-EfferentArtery.Conductance(/G) </name>
+  <val> 0.06818 </val>
+</var>
+<var>
+  <name> RightKidney-EfferentArtery.Clamp </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightKidney-EfferentArtery.Level </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightKidney-EfferentArtery.A2Effect </name>
+  <val> 1.2 </val>
+</var>
+<var>
+  <name> RightKidney-EfferentArtery.SympEffect </name>
+  <val> 1.06517737431407 </val>
+</var>
+<var>
+  <name> RightKidney-EfferentArtery.PressureGradient </name>
+  <val> 40.7708622993456 </val>
+</var>
+<var>
+  <name> RightKidney-EfferentArtery.BloodFlow </name>
+  <val> 662.065164498749 </val>
+</var>
+<var>
+  <name> RightKidney-EfferentArtery.Resistance </name>
+  <val> 0.0615813434772895 </val>
+</var>
+<var>
+  <name> RightKidney-EfferentArtery.OuterVesselsInflow </name>
+  <val> 614.250797502182 </val>
+</var>
+<var>
+  <name> RightKidney-EfferentArtery.OuterVesselsOutflow </name>
+  <val> 646.497105881685 </val>
+</var>
+<var>
+  <name> RightKidney-EfferentArtery.VasaRectaInflow </name>
+  <val> 15.636217805826 </val>
+</var>
+<var>
+  <name> RightKidney-EfferentArtery.VasaRectaOutflow </name>
+  <val> 15.5680586170641 </val>
+</var>
+<var>
+  <name> RightKidney-EfferentArtery.A2_ATarget </name>
+  <val> 1.2 </val>
+</var>
+<var>
+  <name> RightKidney-EfferentArtery.A2_mTarget </name>
+  <val> 7.5 </val>
+</var>
+<var>
+  <name> RightKidney-EfferentArtery.A2_STarget </name>
+  <val> 1.24 </val>
+</var>
+<var>
+  <name> RightKidney-EfferentArtery.A2_A1Target </name>
+  <val> 0.2 </val>
+</var>
+<var>
+  <name> RightKidney-EfferentArtery.A2_m1Target </name>
+  <val> 25 </val>
+</var>
+<var>
+  <name> RightKidney-EfferentArtery.A2_S1Target </name>
+  <val> 1.54 </val>
+</var>
+<var>
+  <name> RightKidney-EfferentArtery.Symp_ATarget </name>
+  <val> 0.99 </val>
+</var>
+<var>
+  <name> RightKidney-EfferentArtery.Symp_mTarget </name>
+  <val> 3.75 </val>
+</var>
+<var>
+  <name> RightKidney-EfferentArtery.Symp_STarget </name>
+  <val> 2.05 </val>
+</var>
+<var>
+  <name> RightKidney-EfferentArtery.Symp_BTarget </name>
+  <val> 0.08 </val>
+</var>
+<var>
+  <name> RightKidney-EfferentArtery.A2_A </name>
+  <val> 1.2 </val>
+</var>
+<var>
+  <name> RightKidney-EfferentArtery.dA2A </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightKidney-EfferentArtery.A2_m </name>
+  <val> 7.5 </val>
+</var>
+<var>
+  <name> RightKidney-EfferentArtery.dA2m </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightKidney-EfferentArtery.A2_S </name>
+  <val> 1.24 </val>
+</var>
+<var>
+  <name> RightKidney-EfferentArtery.dA2S </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightKidney-EfferentArtery.A2_A1 </name>
+  <val> 0.2 </val>
+</var>
+<var>
+  <name> RightKidney-EfferentArtery.dA2A1 </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightKidney-EfferentArtery.A2_m1 </name>
+  <val> 25 </val>
+</var>
+<var>
+  <name> RightKidney-EfferentArtery.dA2m1 </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightKidney-EfferentArtery.A2_S1 </name>
+  <val> 1.54 </val>
+</var>
+<var>
+  <name> RightKidney-EfferentArtery.dA2S1 </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightKidney-EfferentArtery.Symp_A </name>
+  <val> 0.99 </val>
+</var>
+<var>
+  <name> RightKidney-EfferentArtery.dSympA </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightKidney-EfferentArtery.Symp_m </name>
+  <val> 3.75 </val>
+</var>
+<var>
+  <name> RightKidney-EfferentArtery.dSympm </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightKidney-EfferentArtery.Symp_S </name>
+  <val> 2.05 </val>
+</var>
+<var>
+  <name> RightKidney-EfferentArtery.dSympS </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightKidney-EfferentArtery.Symp_B </name>
+  <val> 0.08 </val>
+</var>
+<var>
+  <name> RightKidney-EfferentArtery.dSympB </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightKidney-AfferentArtery.Conductance </name>
+  <val> 17.7443799104769 </val>
+</var>
+<var>
+  <name> RightKidney-AfferentArtery.BasicConductance </name>
+  <val> 15.3577 </val>
+</var>
+<var>
+  <name> RightKidney-AfferentArtery.Multiplier </name>
+  <val> 1 </val>
+</var>
+<var>
+  <name> RightKidney-AfferentArtery.NominalConductance </name>
+  <val> 15.3577 </val>
+</var>
+<var>
+  <name> RightKidney-AfferentArtery.Conductance(/G) </name>
+  <val> 0.08083 </val>
+</var>
+<var>
+  <name> RightKidney-AfferentArtery.Clamp </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightKidney-AfferentArtery.Level </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightKidney-AfferentArtery.TGFEffect </name>
+  <val> 1.01536742706065 </val>
+</var>
+<var>
+  <name> RightKidney-AfferentArtery.SympEffect </name>
+  <val> 1.17917177424283 </val>
+</var>
+<var>
+  <name> RightKidney-AfferentArtery.MyogenicEffect </name>
+  <val> 1 </val>
+</var>
+<var>
+  <name> RightKidney-AfferentArtery.ANPEffect </name>
+  <val> 0.984004946397952 </val>
+</var>
+<var>
+  <name> RightKidney-AfferentArtery.PressureGradient </name>
+  <val> 37.3112595559251 </val>
+</var>
+<var>
+  <name> RightKidney-AfferentArtery.BloodFlow </name>
+  <val> 662.065164498749 </val>
+</var>
+<var>
+  <name> RightKidney-AfferentArtery.Resistance </name>
+  <val> 0.0563558718335129 </val>
+</var>
+<var>
+  <name> RightKidney-AfferentArtery.TGF_ATarget </name>
+  <val> 0.45 </val>
+</var>
+<var>
+  <name> RightKidney-AfferentArtery.TGF_mTarget </name>
+  <val> 9 </val>
+</var>
+<var>
+  <name> RightKidney-AfferentArtery.TGF_STarget </name>
+  <val> 0.7 </val>
+</var>
+<var>
+  <name> RightKidney-AfferentArtery.TGF_BTarget </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightKidney-AfferentArtery.TGF_A1Target </name>
+  <val> 3.8 </val>
+</var>
+<var>
+  <name> RightKidney-AfferentArtery.TGF_m1Target </name>
+  <val> 2 </val>
+</var>
+<var>
+  <name> RightKidney-AfferentArtery.TGF_S1Target </name>
+  <val> 0.54 </val>
+</var>
+<var>
+  <name> RightKidney-AfferentArtery.TGF_B1Target </name>
+  <val> 0.14 </val>
+</var>
+<var>
+  <name> RightKidney-AfferentArtery.Symp_ATarget </name>
+  <val> 1.1 </val>
+</var>
+<var>
+  <name> RightKidney-AfferentArtery.Symp_mTarget </name>
+  <val> -3 </val>
+</var>
+<var>
+  <name> RightKidney-AfferentArtery.Symp_STarget </name>
+  <val> 1.85 </val>
+</var>
+<var>
+  <name> RightKidney-AfferentArtery.Symp_BTarget </name>
+  <val> 0.1 </val>
+</var>
+<var>
+  <name> RightKidney-AfferentArtery.Myo_ATarget </name>
+  <val> 0.48 </val>
+</var>
+<var>
+  <name> RightKidney-AfferentArtery.Myo_mTarget </name>
+  <val> -2.8 </val>
+</var>
+<var>
+  <name> RightKidney-AfferentArtery.Myo_STarget </name>
+  <val> 22 </val>
+</var>
+<var>
+  <name> RightKidney-AfferentArtery.Myo_BTarget </name>
+  <val> 0.72 </val>
+</var>
+<var>
+  <name> RightKidney-AfferentArtery.ANP_ATarget </name>
+  <val> 2.85 </val>
+</var>
+<var>
+  <name> RightKidney-AfferentArtery.ANP_mTarget </name>
+  <val> 2.7 </val>
+</var>
+<var>
+  <name> RightKidney-AfferentArtery.ANP_STarget </name>
+  <val> 136 </val>
+</var>
+<var>
+  <name> RightKidney-AfferentArtery.ANP_BTarget </name>
+  <val> 0.984 </val>
+</var>
+<var>
+  <name> RightKidney-AfferentArtery.TGF_A </name>
+  <val> 0.45 </val>
+</var>
+<var>
+  <name> RightKidney-AfferentArtery.dTGFA </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightKidney-AfferentArtery.TGF_m </name>
+  <val> 9 </val>
+</var>
+<var>
+  <name> RightKidney-AfferentArtery.dTGFm </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightKidney-AfferentArtery.TGF_S </name>
+  <val> 0.7 </val>
+</var>
+<var>
+  <name> RightKidney-AfferentArtery.dTGFS </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightKidney-AfferentArtery.TGF_A1 </name>
+  <val> 3.8 </val>
+</var>
+<var>
+  <name> RightKidney-AfferentArtery.dTGFA1 </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightKidney-AfferentArtery.TGF_m1 </name>
+  <val> 2 </val>
+</var>
+<var>
+  <name> RightKidney-AfferentArtery.dTGFm1 </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightKidney-AfferentArtery.TGF_S1 </name>
+  <val> 0.54 </val>
+</var>
+<var>
+  <name> RightKidney-AfferentArtery.dTGFS1 </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightKidney-AfferentArtery.TGF_B1 </name>
+  <val> 0.14 </val>
+</var>
+<var>
+  <name> RightKidney-AfferentArtery.dTGFB1 </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightKidney-AfferentArtery.Symp_A </name>
+  <val> 1.1 </val>
+</var>
+<var>
+  <name> RightKidney-AfferentArtery.dSympA </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightKidney-AfferentArtery.Symp_m </name>
+  <val> -3 </val>
+</var>
+<var>
+  <name> RightKidney-AfferentArtery.dSympm </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightKidney-AfferentArtery.Symp_S </name>
+  <val> 1.85 </val>
+</var>
+<var>
+  <name> RightKidney-AfferentArtery.dSympS </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightKidney-AfferentArtery.Symp_B </name>
+  <val> 0.1 </val>
+</var>
+<var>
+  <name> RightKidney-AfferentArtery.dSympB </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightKidney-AfferentArtery.Myo_A </name>
+  <val> 0.48 </val>
+</var>
+<var>
+  <name> RightKidney-AfferentArtery.dMyoA </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightKidney-AfferentArtery.Myo_m </name>
+  <val> -2.8 </val>
+</var>
+<var>
+  <name> RightKidney-AfferentArtery.dMyom </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightKidney-AfferentArtery.Myo_S </name>
+  <val> 22 </val>
+</var>
+<var>
+  <name> RightKidney-AfferentArtery.dMyoS </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightKidney-AfferentArtery.Myo_B </name>
+  <val> 0.72 </val>
+</var>
+<var>
+  <name> RightKidney-AfferentArtery.dMyoB </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightKidney-AfferentArtery.ANP_A </name>
+  <val> 2.85 </val>
+</var>
+<var>
+  <name> RightKidney-AfferentArtery.dANPA </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightKidney-AfferentArtery.ANP_m </name>
+  <val> 2.7 </val>
+</var>
+<var>
+  <name> RightKidney-AfferentArtery.dANPm </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightKidney-AfferentArtery.ANP_S </name>
+  <val> 136 </val>
+</var>
+<var>
+  <name> RightKidney-AfferentArtery.dANPS </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightKidney-AfferentArtery.ANP_B </name>
+  <val> 0.984 </val>
+</var>
+<var>
+  <name> RightKidney-AfferentArtery.dANPB </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightKidney-ArcuateArtery.Pressure </name>
+  <val> 78.0821218552708 </val>
+</var>
+<var>
+  <name> RightKidney-ArcuateArtery.Conductance </name>
+  <val> 345.20710625868 </val>
+</var>
+<var>
+  <name> RightKidney-ArcuateArtery.BasicConductance </name>
+  <val> 352 </val>
+</var>
+<var>
+  <name> RightKidney-ArcuateArtery.Multiplier </name>
+  <val> 1 </val>
+</var>
+<var>
+  <name> RightKidney-ArcuateArtery.NominalConductance </name>
+  <val> 352 </val>
+</var>
+<var>
+  <name> RightKidney-ArcuateArtery.Conductance(/G) </name>
+  <val> 1.855 </val>
+</var>
+<var>
+  <name> RightKidney-ArcuateArtery.Stenosis </name>
+  <val> 1 </val>
+</var>
+<var>
+  <name> RightKidney-ArcuateArtery.PressureGradient </name>
+  <val> 1.91787814472924 </val>
+</var>
+<var>
+  <name> RightKidney-ArcuateArtery.BloodFlow </name>
+  <val> 662.065164498748 </val>
+</var>
+<var>
+  <name> RightKidney-Pressure.ArtyPressure </name>
+  <val> 80 </val>
+</var>
+<var>
+  <name> RightKidney-Pressure.VeinPressure </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightKidney-Pressure.PressureGradient </name>
+  <val> 80 </val>
+</var>
+<var>
+  <name> RightKidney-Pressure.PumpSwitch </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightKidney-Pressure.PumpSetting </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightKidney-Flow.Conductance </name>
+  <val> 8.27581455623436 </val>
+</var>
+<var>
+  <name> RightKidney-Flow.BloodFlow </name>
+  <val> 662.065164498749 </val>
+</var>
+<var>
+  <name> RightKidney-Flow.PlasmaFlow </name>
+  <val> 662.065164498749 </val>
+</var>
+<var>
+  <name> RightKidney-Flow.Clamp </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightKidney-Flow.Level </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightKidney-Size.Vol </name>
+  <val> 185.789914529915 </val>
+</var>
+<var>
+  <name> RightKidney-Size.Mass </name>
+  <val> 194.89 </val>
+</var>
+<var>
+  <name> RightKidney-Size.InitialMass </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> RightKidney-Size.Density </name>
+  <val> 1.04898051378682 </val>
+</var>
+<var>
+  <name> RightKidney-Size.LiquidMass </name>
+  <val> 132.26 </val>
+</var>
+<var>
+  <name> RightKidney-Size.LiquidDensity </name>
+  <val> 1 </val>
+</var>
+<var>
+  <name> RightKidney-Size.LiquidVol </name>
+  <val> 132.26 </val>
+</var>
+<var>
+  <name> RightKidney-Size.InitialLiquidVol </name>
+  <val> 132.26 </val>
+</var>
+<var>
+  <name> RightKidney-Size.SolidMass </name>
+  <val> 62.63 </val>
+</var>
+<var>
+  <name> RightKidney-Size.InitialSolidMass </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> RightKidney-Size.SolidDensity </name>
+  <val> 1.17 </val>
+</var>
+<var>
+  <name> RightKidney-Size.SolidVol </name>
+  <val> 53.5299145299145 </val>
+</var>
+<var>
+  <name> RightKidney-Size.FractTotal </name>
+  <val> 0.0034 </val>
+</var>
+<var>
+  <name> RightKidney-Size.IFV </name>
+  <val> 41.76 </val>
+</var>
+<var>
+  <name> RightKidney-Size.InitialIFV </name>
+  <val> 41.76 </val>
+</var>
+<var>
+  <name> RightKidney-Size.CellH2O </name>
+  <val> 90.5 </val>
+</var>
+<var>
+  <name> RightKidney-Size.InitialCellH2O </name>
+  <val> 90.5 </val>
+</var>
+<var>
+  <name> RightKidney-Function.Failed </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightKidney-Function.Effect </name>
+  <val> 1 </val>
+</var>
+<var>
+  <name> RightKidney-Function.PhEffect </name>
+  <val> 1 </val>
+</var>
+<var>
+  <name> RightKidney-Function.ProteinEffect </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> RightKidney-Function.FuelEffect </name>
+  <val> 1 </val>
+</var>
+<var>
+  <name> RightKidney-Function.TemperatureEffect </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> RightKidney-CO2.[HCO3] </name>
+  <val> 0.0159896103896104 </val>
+</var>
+<var>
+  <name> RightKidney-CO2.[HCO3(mEq/L)] </name>
+  <val> 15.9896103896104 </val>
+</var>
+<var>
+  <name> RightKidney-CO2.PCO2 </name>
+  <val> 32.7294131231672 </val>
+</var>
+<var>
+  <name> RightKidney-CO2.InflowGas </name>
+  <val> 7.2366451515886 </val>
+</var>
+<var>
+  <name> RightKidney-CO2.InflowBase </name>
+  <val> 0.322754373760852 </val>
+</var>
+<var>
+  <name> RightKidney-CO2.OutflowBase </name>
+  <val> 0.322754373760852 </val>
+</var>
+<var>
+  <name> RightKidney-CO2.[BloodHCO3] </name>
+  <val> 0.0134120263202766 </val>
+</var>
+<var>
+  <name> RightKidney-CO2.Outflow(0) </name>
+  <val> -0.00767199370047321 </val>
+</var>
+<var>
+  <name> RightKidney-CO2.K </name>
+  <val> 5.00578530544948 </val>
+</var>
+<var>
+  <name> RightKidney-CO2.Alpha </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightKidney-CO2.Initial_pCO2 </name>
+  <val> 45 </val>
+</var>
+<var>
+  <name> RightKidney-CO2.Initial_[SID] </name>
+  <val> 0.036 </val>
+</var>
+<var>
+  <name> RightKidney-CO2.Initial_[HCO3] </name>
+  <val> 0.0159896103896104 </val>
+</var>
+<var>
+  <name> RightKidney-CO2.Initial_Mass </name>
+  <val> 2.11478587012987 </val>
+</var>
+<var>
+  <name> RightKidney-CO2.p50 </name>
+  <val> 32 </val>
+</var>
+<var>
+  <name> RightKidney-CO2.k </name>
+  <val> 0.76 </val>
+</var>
+<var>
+  <name> RightKidney-CO2.K_CO2 </name>
+  <val> 0.0316228736730682 </val>
+</var>
+<var>
+  <name> RightKidney-CO2.Mass </name>
+  <val> 2.11478587012987 </val>
+</var>
+<var>
+  <name> RightKidney-CO2.Change </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightKidney-Lactate.[Lac-] </name>
+  <val> 0.00136095569333132 </val>
+</var>
+<var>
+  <name> RightKidney-Lactate.[Lac-(mEq/L)] </name>
+  <val> 1.36095569333132 </val>
+</var>
+<var>
+  <name> RightKidney-Lactate.[Lac-(mG/dL)] </name>
+  <val> 12.2594888855285 </val>
+</var>
+<var>
+  <name> RightKidney-Lactate.DC </name>
+  <val> 20 </val>
+</var>
+<var>
+  <name> RightKidney-Lactate.Made </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightKidney-Lactate.Made(mG/Min) </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightKidney-Lactate.Used </name>
+  <val> 0.0567738280356873 </val>
+</var>
+<var>
+  <name> RightKidney-Lactate.Used(mG/Min) </name>
+  <val> 5.06909178890065 </val>
+</var>
+<var>
+  <name> RightKidney-Lactate.Flow </name>
+  <val> 662.065164498749 </val>
+</var>
+<var>
+  <name> RightKidney-Lactate.Volume </name>
+  <val> 132.26 </val>
+</var>
+<var>
+  <name> RightKidney-Lactate.K </name>
+  <val> 19.4135457712549 </val>
+</var>
+<var>
+  <name> RightKidney-Lactate.[Pool] </name>
+  <val> 0.001 </val>
+</var>
+<var>
+  <name> RightKidney-Lactate.Outflux </name>
+  <val> 0.00700742987388258 </val>
+</var>
+<var>
+  <name> RightKidney-Lactate.MEQ_ML_TO_MG_DL </name>
+  <val> 9008 </val>
+</var>
+<var>
+  <name> RightKidney-Lactate.GLUCOSE_TO_LACTATE </name>
+  <val> 0.99 </val>
+</var>
+<var>
+  <name> RightKidney-Lactate.MG_TO_MEQ </name>
+  <val> 0.0112 </val>
+</var>
+<var>
+  <name> RightKidney-Lactate.Mass </name>
+  <val> 0.18 </val>
+</var>
+<var>
+  <name> RightKidney-Lactate.F1 </name>
+  <val> -0.0373602822644324 </val>
+</var>
+<var>
+  <name> RightKidney-Lactate.F2 </name>
+  <val> 0.146783198028542 </val>
+</var>
+<var>
+  <name> RightKidney-Lactate.Change </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> RightKidney-Ph.Ph </name>
+  <val> 7.25424952288899 </val>
+</var>
+<var>
+  <name> RightKidney-Ph.[SID] </name>
+  <val> 0.0416090443066687 </val>
+</var>
+<var>
+  <name> RightKidney-Ph.[SID(mEq/L)] </name>
+  <val> 41.6090443066687 </val>
+</var>
+<var>
+  <name> RightKidney-Fuel.GlucoseAvailable </name>
+  <val> 46.872193643327 </val>
+</var>
+<var>
+  <name> RightKidney-Fuel.FAAvailable </name>
+  <val> 35 </val>
+</var>
+<var>
+  <name> RightKidney-Fuel.LacAvailable </name>
+  <val> 25 </val>
+</var>
+<var>
+  <name> RightKidney-Fuel.InsulinEffect </name>
+  <val> 0.46872193643327 </val>
+</var>
+<var>
+  <name> RightKidney-Fuel.GlucoseDelivered(mG/Min) </name>
+  <val> 341.356912543751 </val>
+</var>
+<var>
+  <name> RightKidney-Fuel.FADelivered(mG/Min) </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightKidney-Fuel.LacDelivered(mG/Min) </name>
+  <val> 165.516291124687 </val>
+</var>
+<var>
+  <name> RightKidney-Fuel.GlucoseDelivered(Cals/Min) </name>
+  <val> 1399.56334142938 </val>
+</var>
+<var>
+  <name> RightKidney-Fuel.FADelivered(Cals/Min) </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightKidney-Fuel.LacDelivered(Cals/Min) </name>
+  <val> 652.134187031268 </val>
+</var>
+<var>
+  <name> RightKidney-Fuel.TotalDelivered(Cals/Min) </name>
+  <val> 2051.69752846065 </val>
+</var>
+<var>
+  <name> RightKidney-Fuel.FADeliveredFraction </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightKidney-Fuel.FAUsedFraction </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightKidney-Fuel.AerobicGlucoseUsed(Cals/Min) </name>
+  <val> 23.2480822817296 </val>
+</var>
+<var>
+  <name> RightKidney-Fuel.AnaerobicGlucoseUsed(Cals/Min) </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightKidney-Fuel.FAUsed(Cals/Min) </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightKidney-Fuel.LacGradient </name>
+  <val> 0.998639044306669 </val>
+</var>
+<var>
+  <name> RightKidney-Fuel.LacUsed(Cals/Min) </name>
+  <val> 19.9727808861334 </val>
+</var>
+<var>
+  <name> RightKidney-Fuel.TotalGlucoseUsed(Cals/Min) </name>
+  <val> 23.2480822817296 </val>
+</var>
+<var>
+  <name> RightKidney-Fuel.TotalUsed(Cals/Min) </name>
+  <val> 43.2208631678629 </val>
+</var>
+<var>
+  <name> RightKidney-Fuel.Glucose(%) </name>
+  <val> 53.78902820945 </val>
+</var>
+<var>
+  <name> RightKidney-Fuel.Fat(%) </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightKidney-Fuel.Lactate(%) </name>
+  <val> 46.21097179055 </val>
+</var>
+<var>
+  <name> RightKidney-Fuel.Total(%) </name>
+  <val> 100 </val>
+</var>
+<var>
+  <name> RightKidney-Fuel.FAUsed(mG/Min) </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightKidney-Fuel.AerobicGlucoseUsed(mG/Min) </name>
+  <val> 5.67020726851384 </val>
+</var>
+<var>
+  <name> RightKidney-Fuel.AnaerobicGlucoseUsed(mG/Min) </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightKidney-Fuel.LacUsed(mG/Min) </name>
+  <val> 5.06909178890065 </val>
+</var>
+<var>
+  <name> RightKidney-Fuel.TotalGlucoseUsed(mG/Min) </name>
+  <val> 5.67020726851384 </val>
+</var>
+<var>
+  <name> RightKidney-Fuel.IsFailed </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightKidney-Fuel.FractUseDelay </name>
+  <val> 1 </val>
+</var>
+<var>
+  <name> RightKidney-Fuel.Adequacy </name>
+  <val> 1.0000354 </val>
+</var>
+<var>
+  <name> RightKidney-Fuel.K </name>
+  <val> 0.5 </val>
+</var>
+<var>
+  <name> RightKidney-Fuel.DxMax </name>
+  <val> 1 </val>
+</var>
+<var>
+  <name> RightKidney-Fuel.Change </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> RightKidney-Metabolism.TotalCalsUsed </name>
+  <val> 43.2193332034675 </val>
+</var>
+<var>
+  <name> RightKidney-Metabolism.BasalCalsUsed </name>
+  <val> 26.98 </val>
+</var>
+<var>
+  <name> RightKidney-Metabolism.InitialBasalCalsUsed </name>
+  <val> 26.98 </val>
+</var>
+<var>
+  <name> RightKidney-Metabolism.BasalCalsUsed((Cal/Min)/G) </name>
+  <val> 0.142 </val>
+</var>
+<var>
+  <name> RightKidney-Metabolism.CalMultiplier </name>
+  <val> 1 </val>
+</var>
+<var>
+  <name> RightKidney-Metabolism.ProximalTubuleCals </name>
+  <val> 8.33499978069474 </val>
+</var>
+<var>
+  <name> RightKidney-Metabolism.LoopOfHenleCals </name>
+  <val> 6.67074310189544 </val>
+</var>
+<var>
+  <name> RightKidney-Metabolism.DistalTubuleCals </name>
+  <val> 1.23359032087735 </val>
+</var>
+<var>
+  <name> RightKidney-Metabolism.CalPerNa+(Meq/Min) </name>
+  <val> 3.6 </val>
+</var>
+<var>
+  <name> RightKidney-Metabolism.AerobicCals </name>
+  <val> 43.2208631678629 </val>
+</var>
+<var>
+  <name> RightKidney-Metabolism.AnaerobicCals </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightKidney-Metabolism.O2Need </name>
+  <val> 9.04580643948576 </val>
+</var>
+<var>
+  <name> RightKidney-Metabolism.O2Lack </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightKidney-Metabolism.O2Use </name>
+  <val> 9.04580643948576 </val>
+</var>
+<var>
+  <name> RightKidney-Metabolism.Vein[O2] </name>
+  <val> 0.17018052142955 </val>
+</var>
+<var>
+  <name> RightKidney-Metabolism.Vein_pO2 </name>
+  <val> 5792.68404765166 </val>
+</var>
+<var>
+  <name> RightKidney-AlphaReceptors.Activity </name>
+  <val> 0.496240601503759 </val>
+</var>
+<var>
+  <name> RightKidney-AlphaReceptors.TotalAgonism </name>
+  <val> 0.496240601503759 </val>
+</var>
+<var>
+  <name> RightKidney-AlphaReceptors.NeuralAgonism </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightKidney-AlphaReceptors.HumoralAgonism </name>
+  <val> 0.992481203007519 </val>
+</var>
+<var>
+  <name> RightKidney-AlphaReceptors.Switch </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightKidney-AlphaReceptors.Setting </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightKidney-AlphaReceptors.NEURALK </name>
+  <val> 0.333 </val>
+</var>
+<var>
+  <name> RightKidney-AlphaReceptors.HUMORALK </name>
+  <val> 0.5 </val>
+</var>
+<var>
+  <name> RightKidney-BetaReceptors.Activity </name>
+  <val> 0.506483399990363 </val>
+</var>
+<var>
+  <name> RightKidney-BetaReceptors.TotalAgonism </name>
+  <val> 0.506483399990363 </val>
+</var>
+<var>
+  <name> RightKidney-BetaReceptors.NeuralAgonism </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightKidney-BetaReceptors.HumoralAgonism </name>
+  <val> 1.01296679998073 </val>
+</var>
+<var>
+  <name> RightKidney-BetaReceptors.Switch </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightKidney-BetaReceptors.Setting </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightKidney-BetaReceptors.NEURALK </name>
+  <val> 0.333 </val>
+</var>
+<var>
+  <name> RightKidney-BetaReceptors.HUMORALK </name>
+  <val> 0.5 </val>
+</var>
+<var>
+  <name> RightKidney-Structure.PhEffect </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightKidney-Structure.FuelEffect </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightKidney-Structure.TemperatureEffect </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> RightKidney-Structure.Fraction </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightKidney-Structure.Remaining </name>
+  <val> 1 </val>
+</var>
+<var>
+  <name> RightKidney-Structure.InterstitialLoss </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> RightKidney-Structure.InterstitialLoss(L) </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> RightKidney-Structure.IntracellularLoss </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> RightKidney-Structure.Effect </name>
+  <val> 1 </val>
+</var>
+<var>
+  <name> RightKidney-Structure.F1 </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightKidney-Structure.F2 </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightKidney-Structure.Change </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> RightKidney-NephronCount.Total </name>
+  <val> 1200000 </val>
+</var>
+<var>
+  <name> RightKidney-NephronCount.Total(xNormal) </name>
+  <val> 1 </val>
+</var>
+<var>
+  <name> RightKidney-NephronCount.Normal </name>
+  <val> 1200000 </val>
+</var>
+<var>
+  <name> RightKidney-NephronCount.Filtering(%) </name>
+  <val> 100 </val>
+</var>
+<var>
+  <name> RightKidney-NephronCount.Filtering(xNormal) </name>
+  <val> 1 </val>
+</var>
+<var>
+  <name> RightKidney-NephronCount.NumFiltering </name>
+  <val> 1200000 </val>
+</var>
+<var>
+  <name> RightKidney-TubuleO2.Tubule[O2] </name>
+  <val> 0.188758753089438 </val>
+</var>
+<var>
+  <name> RightKidney-TubuleO2.Tubule_pO2 </name>
+  <val> 6411.95843631461 </val>
+</var>
+<var>
+  <name> RightKidney-TubuleO2.Vein[O2] </name>
+  <val> 0.17018052142955 </val>
+</var>
+<var>
+  <name> RightKidney-TubuleO2.Vein_pO2 </name>
+  <val> 5792.68404765166 </val>
+</var>
+<var>
+  <name> RightKidney-TubuleO2.AerobicFraction </name>
+  <val> 1 </val>
+</var>
+<var>
+  <name> RightKidney-TubuleO2.O2Need </name>
+  <val> 9.04580643948576 </val>
+</var>
+<var>
+  <name> RightKidney-TubuleO2.O2Delivered </name>
+  <val> 146.316401354223 </val>
+</var>
+<var>
+  <name> RightKidney-TubuleO2.O2Returned </name>
+  <val> 112.670594914738 </val>
+</var>
+<var>
+  <name> RightKidney-TubuleO2.Shunt </name>
+  <val> 12.3 </val>
+</var>
+<var>
+  <name> RightKidney-TubuleO2.O2Use </name>
+  <val> 9.04580643948576 </val>
+</var>
+<var>
+  <name> RightKidney-TubuleO2.O2UseEnd </name>
+  <val> 9.04580643948576 </val>
+</var>
+<var>
+  <name> RightKidney-MyogenicDelay.PressureChange </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightKidney-MyogenicDelay.PressureChange(Steady-State) </name>
+  <val> -17.5735079226918 </val>
+</var>
+<var>
+  <name> RightKidney-MyogenicDelay.K </name>
+  <val> 2 </val>
+</var>
+<var>
+  <name> RightKidney-MyogenicDelay.DxMax </name>
+  <val> 0.2 </val>
+</var>
+<var>
+  <name> RightKidney-MyogenicDelay.Derv </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> RightKidney-Myogenic.Tau </name>
+  <val> 4 </val>
+</var>
+<var>
+  <name> RightKidney-Myogenic.Clamp </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightKidney-Myogenic.Level </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightKidney-Myogenic.PressureChange(Steady-State) </name>
+  <val> -17.5735079226918 </val>
+</var>
+<var>
+  <name> RightKidney-Myogenic.AdaptedPressure </name>
+  <val> 77 </val>
+</var>
+<var>
+  <name> RightKidney-Myogenic.InterlobarPressure </name>
+  <val> 59.4264920773082 </val>
+</var>
+<var>
+  <name> RightKidney-Myogenic.K </name>
+  <val> 0.00416666666666667 </val>
+</var>
+<var>
+  <name> RightKidney-Myogenic.Derv </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> RightKidney-ZonesAnatomy.Cortex </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> RightKidney-ZonesAnatomy.CortexFraction </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> RightKidney-ZonesAnatomy.CortexFraction(%) </name>
+  <val> 34 </val>
+</var>
+<var>
+  <name> RightKidney-ZonesAnatomy.OuterCortex </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> RightKidney-ZonesAnatomy.OuterCortexFraction </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> RightKidney-ZonesAnatomy.OuterCortexFraction(%) </name>
+  <val> 80 </val>
+</var>
+<var>
+  <name> RightKidney-ZonesAnatomy.InnerCortex </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> RightKidney-ZonesAnatomy.InnerCortexFraction(%) </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> RightKidney-ZonesAnatomy.Medulla </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> RightKidney-ZonesAnatomy.MedullaFraction(%) </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> RightKidney-ZonesAnatomy.OuterMedulla </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> RightKidney-ZonesAnatomy.OuterMedullaFraction </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> RightKidney-ZonesAnatomy.OuterMedullaFraction(%) </name>
+  <val> 55 </val>
+</var>
+<var>
+  <name> RightKidney-ZonesAnatomy.DeepMedulla </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> RightKidney-ZonesAnatomy.DEEP_MEDULLA_FRACTION_INNER </name>
+  <val> 0.78 </val>
+</var>
+<var>
+  <name> RightKidney-ZonesAnatomy.InnerMedulla </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> RightKidney-ZonesAnatomy.Papilla </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> RightKidney-ZonesCirculation.Cortex </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> RightKidney-ZonesCirculation.Cortex(/G) </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> RightKidney-ZonesCirculation.OuterCortex </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> RightKidney-ZonesCirculation.OuterCortexFraction </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> RightKidney-ZonesCirculation.OuterCortexFraction(%) </name>
+  <val> 87 </val>
+</var>
+<var>
+  <name> RightKidney-ZonesCirculation.OuterCortex(/G) </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> RightKidney-ZonesCirculation.InnerCortex </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> RightKidney-ZonesCirculation.InnerCortexFraction(%) </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> RightKidney-ZonesCirculation.InnerCortex(/G) </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> RightKidney-ZonesCirculation.Medulla </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> RightKidney-ZonesCirculation.Medulla(/G) </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> RightKidney-ZonesCirculation.OuterMedulla </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> RightKidney-ZonesCirculation.OuterMedullaFraction </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> RightKidney-ZonesCirculation.OuterMedullaFraction(%) </name>
+  <val> 57 </val>
+</var>
+<var>
+  <name> RightKidney-ZonesCirculation.OuterMedulla(/G) </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> RightKidney-ZonesCirculation.DeepMedulla </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> RightKidney-ZonesCirculation.DEEP_MEDULLA_FRACTION_INNER </name>
+  <val> 0.89 </val>
+</var>
+<var>
+  <name> RightKidney-ZonesCirculation.InnerMedulla </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> RightKidney-ZonesCirculation.InnerMedulla(/G) </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> RightKidney-ZonesCirculation.Papilla </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> RightKidney-ZonesCirculation.Papilla(/G) </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> RightKidney-ZonesCirculation.RightKidney(/G) </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> RightKidney-ZonesTransport.Total </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> RightKidney-ZonesTransport.Total_PT </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> RightKidney-ZonesTransport.Total_LH </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> RightKidney-ZonesTransport.Total_DT </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> RightKidney-ZonesTransport.Total_CD </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> RightKidney-ZonesTransport.OuterCortex </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> RightKidney-ZonesTransport.OuterCortex_PT </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> RightKidney-ZonesTransport.OuterCortex_LH </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> RightKidney-ZonesTransport.OuterCortex_DT </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> RightKidney-ZonesTransport.OuterCortex_CD </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> RightKidney-ZonesTransport.Juxtamedullary </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> RightKidney-ZonesTransport.Juxtamedullary_PT </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> RightKidney-ZonesTransport.Juxtamedullary_LH </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> RightKidney-ZonesTransport.Juxtamedullary_DT </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> RightKidney-ZonesTransport.Juxtamedullary_CD </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> RightKidney-ZonesTransport.OuterCortexFraction </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> RightKidney-ZonesTransport.OuterCortexFraction(%) </name>
+  <val> 82 </val>
+</var>
+<var>
+  <name> RightKidney-ZonesTransport.JuxtamedullaryFraction </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> RightKidney-ZonesTransport.JuxtamedullaryFraction(%) </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> RightFractReab.Normal </name>
+  <val> 0.75 </val>
+</var>
+<var>
+  <name> RightFractReab.Effects </name>
+  <val> 1.82478254838773 </val>
+</var>
+<var>
+  <name> RightFractReab.Fract </name>
+  <val> 0.854146292748247 </val>
+</var>
+<var>
+  <name> MineralocorticoidReceptor.[Aldo(pMol/L)-Plasma] </name>
+  <val> 1 </val>
+</var>
+<var>
+  <name> MineralocorticoidReceptor.[Aldo(pMol/L)-Bound] </name>
+  <val> 1 </val>
+</var>
+<var>
+  <name> MineralocorticoidReceptor.[Aldo(nG/dL)-Plasma] </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> MineralocorticoidReceptor.[Aldo(nG/dL)-Bound] </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> MineralocorticoidReceptor.[Spironolactone(nMol/L)] </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> MineralocorticoidReceptor.[Spironolactone(nMol/L)]-IC50 </name>
+  <val> 50 </val>
+</var>
+<var>
+  <name> MineralocorticoidReceptor.[Canrenone(nMol/L)] </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> MineralocorticoidReceptor.[Canrenone(nMol/L)]-IC50 </name>
+  <val> 300 </val>
+</var>
+<var>
+  <name> MineralocorticoidReceptor.SpironolactoneEffect </name>
+  <val> 1 </val>
+</var>
+<var>
+  <name> MineralocorticoidReceptor.CanrenoneEffect </name>
+  <val> 1 </val>
+</var>
+<var>
+  <name> MineralocorticoidReceptor.PMOL_L_TO_NG_DL </name>
+  <val> 0.0368 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_H2O.Inflow </name>
+  <val> 3.94444517375296 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_H2O.Outflow </name>
+  <val> 4.01260436251493 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_H2O.RightFractReab </name>
+  <val> -0.0172797911390724 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_H2O.Reab </name>
+  <val> -0.0681591887619732 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_H2O.OutflowMin </name>
+  <val> 12.4701763040233 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_H2O.ADHEffect </name>
+  <val> 0.3 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_H2O.Perm </name>
+  <val> 0.3 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_H2O.BasicPerm </name>
+  <val> 1 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_H2O.ModPerm </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> RightCollectingDuct_H2O.PermSwitch </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_H2O.PermLevel </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_H2O.PermEffect </name>
+  <val> 0.00799452712272104 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_H2O.ADH_ATarget </name>
+  <val> 3.1 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_H2O.ADH_mTarget </name>
+  <val> 2 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_H2O.ADH_STarget </name>
+  <val> 3.5 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_H2O.ADH_BTarget </name>
+  <val> 0.3 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_H2O.Perm_ATarget </name>
+  <val> 1 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_H2O.Perm_mTarget </name>
+  <val> 6 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_H2O.Perm_STarget </name>
+  <val> 0.67 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_H2O.Perm_BTarget </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_H2O.ADH_A </name>
+  <val> 3.1 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_H2O.dADHA </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_H2O.ADH_m </name>
+  <val> 2 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_H2O.dADHm </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_H2O.ADH_S </name>
+  <val> 3.1 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_H2O.dADHS </name>
+  <val> 0.02 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_H2O.ADH_B </name>
+  <val> 0.3 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_H2O.dADHB </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_H2O.Perm_A </name>
+  <val> 1 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_H2O.dPermA </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_H2O.Perm_m </name>
+  <val> 6 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_H2O.dPermm </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_H2O.Perm_S </name>
+  <val> 0.67 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_H2O.dPermS </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_H2O.Perm_B </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_H2O.dPermB </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_Glucose.Outflow </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_Glucose.[Glucose] </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_Glucose.[Glucose(mMol/L)] </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_Glucose.Osmolarity </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_KA.Outflow </name>
+  <val> 1.62944597096537E-08 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_KA.[KA] </name>
+  <val> 4.06081891897287E-09 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_KA.[KA(mMol/L)] </name>
+  <val> 4.06081891897287E-06 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_KA.Osmolarity </name>
+  <val> 4.06081891897287E-06 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_NH4.Inflow </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_NH4.Outflow </name>
+  <val> 14.4796199911126 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_NH4.[NH4] </name>
+  <val> 3.60853417954154 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_NH4.[NH4(mEq/L)] </name>
+  <val> 3608.53417954154 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_NH4.Osmolarity </name>
+  <val> 3608.53417954154 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_NH4.Flux </name>
+  <val> 14.4796199911126 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_NH4.PhEffect </name>
+  <val> 0.692729766803723 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_PO4.Inflow </name>
+  <val> 5.50246351161664 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_PO4.Outflow </name>
+  <val> 5.50246351161664 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_PO4.[PO4--] </name>
+  <val> 1.37129480369899 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_PO4.[PO4--(mEq/L)] </name>
+  <val> 1371.29480369899 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_PO4.Osmolarity </name>
+  <val> 685.647401849497 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_SO4.Inflow </name>
+  <val> 9.00988177340737 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_SO4.Outflow </name>
+  <val> 9.00988177340737 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_SO4.[SO4] </name>
+  <val> 2.24539500020888 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_SO4.[SO4(mEq/L)] </name>
+  <val> 2245.39500020888 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_SO4.Osmolarity </name>
+  <val> 1122.69750010444 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_Na.Inflow </name>
+  <val> 0.0905494444238121 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_Na.ModifiedInflow </name>
+  <val> 7.54578703531768E-08 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_Na.RightFractReab </name>
+  <val> 0.854146292748247 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_Na.BasicFract </name>
+  <val> 0.75 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_Na.Reab </name>
+  <val> 0.0773424722650126 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_Na.Outflow </name>
+  <val> 0.0132069721587995 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_Na.[Na+] </name>
+  <val> 0.0032913716294028 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_Na.[Na+(mEq/L)] </name>
+  <val> 3.2913716294028 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_Na.Osmolarity </name>
+  <val> 3.2913716294028 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_Na.TotalEffect </name>
+  <val> 1.82478254838773 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_Na.LoadEffect </name>
+  <val> 1.58676743338063 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_Na.ANPEffect </name>
+  <val> 1.15 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_Na.MaxReab </name>
+  <val> 0.3 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_Na.ANPClamp </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_Na.ANPLevel </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_Na.ANPRightShift </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_Na.ShiftedANP </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_Na.Load_A1Target </name>
+  <val> 1 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_Na.Load_m1Target </name>
+  <val> 4 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_Na.Load_S1Target </name>
+  <val> 8.5E-08 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_Na.Load_B1Target </name>
+  <val> 0.7 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_Na.Load_ATarget </name>
+  <val> 0.35 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_Na.Load_mTarget </name>
+  <val> 5 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_Na.Load_STarget </name>
+  <val> 3.8E-07 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_Na.Load_BTarget </name>
+  <val> -0.08 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_Na.ANP_ATarget </name>
+  <val> 1.15 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_Na.ANP_mTarget </name>
+  <val> 4.8 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_Na.ANP_STarget </name>
+  <val> 1.94 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_Na.ANP_BTarget </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_Na.Load_A1 </name>
+  <val> 1 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_Na.dLoadA1 </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_Na.Load_m1 </name>
+  <val> 4 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_Na.dLoadm1 </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_Na.Load_S1 </name>
+  <val> 8.5E-08 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_Na.dLoadS1 </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_Na.Load_B1 </name>
+  <val> 0.7 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_Na.dLoadB1 </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_Na.Load_A </name>
+  <val> 0.35 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_Na.dLoadA </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_Na.Load_m </name>
+  <val> 5 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_Na.dLoadm </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_Na.Load_S </name>
+  <val> 3.8E-07 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_Na.dLoadS </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_Na.Load_B </name>
+  <val> -0.08 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_Na.dLoadB </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_Na.ANP_A </name>
+  <val> 1.15 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_Na.dANPA </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_Na.ANP_m </name>
+  <val> 4.8 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_Na.dANPm </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_Na.ANP_S </name>
+  <val> 1.94 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_Na.dANPS </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_Na.ANP_B </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_Na.dANPB </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_K.Inflow </name>
+  <val> 0.0195183380470549 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_K.Outflow </name>
+  <val> 0.0195183380470549 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_K.[K+] </name>
+  <val> 0.00486425679775256 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_K.[K+(mEq/L)] </name>
+  <val> 4.86425679775256 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_K.Osmolarity </name>
+  <val> 4.86425679775256 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_Cl.Outflow </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_Cl.[Cl-] </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_Cl.[Cl-(mEq/L)] </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_Cl.Osmolarity </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_HCO3.Outflow </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_HCO3.[HCO3] </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_HCO3.[HCO3(mEq/L)] </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_HCO3.Osmolarity </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_Urea.Inflow </name>
+  <val> 6.40988731879553 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_Urea.Reab </name>
+  <val> 3.56433983696622 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_Urea.Outflow </name>
+  <val> 2.8455474818293 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_Urea.[Urea] </name>
+  <val> 18.8081395348837 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_Urea.[Urea(mG/dL)] </name>
+  <val> 1880.81395348837 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_Urea.MG_TO_MOSM </name>
+  <val> 16.67 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_Urea.Osmolarity </name>
+  <val> 313.531686046512 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_Urea.OsmEffect </name>
+  <val> 0.556069032058428 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_Creatinine.Outflow </name>
+  <val> 0.354060823364073 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_Creatinine.[Creatinine] </name>
+  <val> 0.0882371625450166 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_Creatinine.[Creatinine(mG/dL)] </name>
+  <val> 8.82371625450166 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_Creatinine.Secretion </name>
+  <val> 0.0902 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_Creatinine.K </name>
+  <val> 11 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_Creatinine.Block </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_Creatinine.Osmolarity </name>
+  <val> 0.780016516897947 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_Protein.Outflow </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_Protein.[Protein(G/mL)] </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_H2OChannels.Active </name>
+  <val> 1 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_H2OChannels.Total </name>
+  <val> 2 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_H2OChannels.InactivateK </name>
+  <val> 0.00018 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_H2OChannels.ReactivateK </name>
+  <val> 0.0004 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_H2OChannels.Gain </name>
+  <val> -1.10418989984297E-05 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_H2OChannels.Loss </name>
+  <val> 0.0004 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_H2OChannels.Inactive </name>
+  <val> 1 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_H2OChannels.Change </name>
+  <val> -0.00041104189899843 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_Ph.SID </name>
+  <val> 8.15562436633644 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_Ph.StrongCations </name>
+  <val> 8.15562842715536 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_Ph.StrongAnions </name>
+  <val> 4.06081891897287E-06 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_Ph.pH </name>
+  <val> 5.27048428179073 </val>
+</var>
+<var>
+  <name> RightCollectingDuct_Ph.[H+] </name>
+  <val> 5364.33285958368 </val>
+</var>
+<var>
+  <name> RightCollectingDuct.Osmolarity </name>
+  <val> 5738.56640002996 </val>
+</var>
+<var>
+  <name> RightCollectingDuct.ClAndHCO3 </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightCollectingDuct.ClFract </name>
+  <val> 0.952153635116531 </val>
+</var>
+<var>
+  <name> RightCollectingDuct.NetSumCats </name>
+  <val> -14.4636482463658 </val>
+</var>
+<var>
+  <name> RightDistalTubule_Na.Inflow </name>
+  <val> 0.433213422445299 </val>
+</var>
+<var>
+  <name> RightDistalTubule_Na.ModifiedInflow </name>
+  <val> 3.61011185371082E-07 </val>
+</var>
+<var>
+  <name> RightDistalTubule_Na.Outflow </name>
+  <val> 0.0905494444238121 </val>
+</var>
+<var>
+  <name> RightDistalTubule_Na.RightFractReab </name>
+  <val> 0.790981904686377 </val>
+</var>
+<var>
+  <name> RightDistalTubule_Na.Reab </name>
+  <val> 0.342663978021486 </val>
+</var>
+<var>
+  <name> RightDistalTubule_Na.BasicFract </name>
+  <val> 0.75 </val>
+</var>
+<var>
+  <name> RightDistalTubule_Na.TotalEffect </name>
+  <val> 1.22689287709776 </val>
+</var>
+<var>
+  <name> RightDistalTubule_Na.LoadEffect </name>
+  <val> 2.45378538517071 </val>
+</var>
+<var>
+  <name> RightDistalTubule_Na.AldoEffect </name>
+  <val> 0.500000075195008 </val>
+</var>
+<var>
+  <name> RightDistalTubule_Na.ThiazideEffect </name>
+  <val> 1 </val>
+</var>
+<var>
+  <name> RightDistalTubule_Na.AldoSwitch </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightDistalTubule_Na.AldoLevel </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightDistalTubule_Na.[Na+] </name>
+  <val> 500 </val>
+</var>
+<var>
+  <name> RightDistalTubule_Na.NormMaxReab </name>
+  <val> 4 </val>
+</var>
+<var>
+  <name> RightDistalTubule_Na.L </name>
+  <val> 1.3 </val>
+</var>
+<var>
+  <name> RightDistalTubule_Na.AldoA </name>
+  <val> 2.5 </val>
+</var>
+<var>
+  <name> RightDistalTubule_Na.AldoB </name>
+  <val> 0.5 </val>
+</var>
+<var>
+  <name> RightDistalTubule_Na.AldoS </name>
+  <val> 20 </val>
+</var>
+<var>
+  <name> RightDistalTubule_Na.AldoN </name>
+  <val> 2.75 </val>
+</var>
+<var>
+  <name> RightDistalTubule_Na.LoadA </name>
+  <val> 2.76 </val>
+</var>
+<var>
+  <name> RightDistalTubule_Na.LoadB </name>
+  <val> 0.4 </val>
+</var>
+<var>
+  <name> RightDistalTubule_Na.LoadS </name>
+  <val> 3.85E-07 </val>
+</var>
+<var>
+  <name> RightDistalTubule_Na.LoadN </name>
+  <val> 2.4 </val>
+</var>
+<var>
+  <name> RightDistalTubule_Na.RLoadA </name>
+  <val> 2.68 </val>
+</var>
+<var>
+  <name> RightDistalTubule_Na.RLoadB </name>
+  <val> 0.32 </val>
+</var>
+<var>
+  <name> RightDistalTubule_Na.RLoadS </name>
+  <val> 5.98E-07 </val>
+</var>
+<var>
+  <name> RightDistalTubule_Na.RLoadN </name>
+  <val> 2.7 </val>
+</var>
+<var>
+  <name> RightDistalTubule_H2O.Inflow </name>
+  <val> 11.1755814701084 </val>
+</var>
+<var>
+  <name> RightDistalTubule_H2O.Outflow </name>
+  <val> 3.94444517375296 </val>
+</var>
+<var>
+  <name> RightDistalTubule_H2O.RightFractReab </name>
+  <val> 0.64704787985276 </val>
+</var>
+<var>
+  <name> RightDistalTubule_H2O.Reab </name>
+  <val> 7.23113629635541 </val>
+</var>
+<var>
+  <name> RightDistalTubule_H2O.ADHEffect </name>
+  <val> 0.5 </val>
+</var>
+<var>
+  <name> RightDistalTubule_H2O.Perm </name>
+  <val> 0.5 </val>
+</var>
+<var>
+  <name> RightDistalTubule_H2O.BasicPerm </name>
+  <val> 1 </val>
+</var>
+<var>
+  <name> RightDistalTubule_H2O.PermSwitch </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightDistalTubule_H2O.PermLevel </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightDistalTubule_H2O.PermEffect </name>
+  <val> 0.663381924198251 </val>
+</var>
+<var>
+  <name> RightDistalTubule_H2O.OutflowMin </name>
+  <val> 0.275169456177167 </val>
+</var>
+<var>
+  <name> RightDistalTubule_H2O.ADHA </name>
+  <val> 0.11 </val>
+</var>
+<var>
+  <name> RightDistalTubule_H2O.ADHS </name>
+  <val> 1.75 </val>
+</var>
+<var>
+  <name> RightDistalTubule_H2O.ADHN </name>
+  <val> 2.2 </val>
+</var>
+<var>
+  <name> RightDistalTubule_H2O.ADHB </name>
+  <val> 0.06 </val>
+</var>
+<var>
+  <name> RightDistalTubule_H2OChannels.Active </name>
+  <val> 1 </val>
+</var>
+<var>
+  <name> RightDistalTubule_H2OChannels.Total </name>
+  <val> 2 </val>
+</var>
+<var>
+  <name> RightDistalTubule_H2OChannels.InactivateK </name>
+  <val> 1.5E-05 </val>
+</var>
+<var>
+  <name> RightDistalTubule_H2OChannels.ReactivateK </name>
+  <val> 0.0004 </val>
+</var>
+<var>
+  <name> RightDistalTubule_H2OChannels.Gain </name>
+  <val> 0.000122025272469407 </val>
+</var>
+<var>
+  <name> RightDistalTubule_H2OChannels.Loss </name>
+  <val> 0.0004 </val>
+</var>
+<var>
+  <name> RightDistalTubule_H2OChannels.Inactive </name>
+  <val> 1 </val>
+</var>
+<var>
+  <name> RightDistalTubule_H2OChannels.Change </name>
+  <val> -0.000277974727530593 </val>
+</var>
+<var>
+  <name> RightDistalTubule_K.Outflow </name>
+  <val> 0.0195183380470549 </val>
+</var>
+<var>
+  <name> RightDistalTubule_K.BasicOutflow </name>
+  <val> 0.025 </val>
+</var>
+<var>
+  <name> RightDistalTubule_K.AldoEffect </name>
+  <val> 0.500000075195008 </val>
+</var>
+<var>
+  <name> RightDistalTubule_K.KEffect </name>
+  <val> 2.24311560436513 </val>
+</var>
+<var>
+  <name> RightDistalTubule_K.NaEffect </name>
+  <val> 0.696115173866537 </val>
+</var>
+<var>
+  <name> RightDistalTubule_K.ThiazideEffect </name>
+  <val> 1 </val>
+</var>
+<var>
+  <name> RightDistalTubule_K.AldoSwitch </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightDistalTubule_K.AldoLevel </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightDistalTubule_K.KA </name>
+  <val> 2.5 </val>
+</var>
+<var>
+  <name> RightDistalTubule_K.KS </name>
+  <val> 4.95 </val>
+</var>
+<var>
+  <name> RightDistalTubule_K.KN </name>
+  <val> 11 </val>
+</var>
+<var>
+  <name> RightDistalTubule_K.ModifiedNaLoad </name>
+  <val> 0.0905494444238121 </val>
+</var>
+<var>
+  <name> RightGlomerulusBicarbonate.Rate </name>
+  <val> 804.453729768515 </val>
+</var>
+<var>
+  <name> RightGlomerulusBicarbonate.[HCO3-] </name>
+  <val> 25 </val>
+</var>
+<var>
+  <name> RightGlomerulusCalcium.Rate </name>
+  <val> 0.474627700563424 </val>
+</var>
+<var>
+  <name> RightGlomerulusCalcium.[Ca++(mG/mL)] </name>
+  <val> 0.01475 </val>
+</var>
+<var>
+  <name> RightGlomerulusChloride.Rate </name>
+  <val> 3957.91235046109 </val>
+</var>
+<var>
+  <name> RightGlomerulusChloride.[Cl-] </name>
+  <val> 123 </val>
+</var>
+<var>
+  <name> RightGlomerulusCreatinine.Rate </name>
+  <val> 0.263860823364073 </val>
+</var>
+<var>
+  <name> RightGlomerulusCreatinine.[Creatinine] </name>
+  <val> 0.0082 </val>
+</var>
+<var>
+  <name> RightGlomerulusFiltrate.GFRxNormal </name>
+  <val> 0.459687845582008 </val>
+</var>
+<var>
+  <name> RightGlomerulusFiltrate.GFRNORMAL </name>
+  <val> 70 </val>
+</var>
+<var>
+  <name> RightGlomerulusFiltrate.SNGFR </name>
+  <val> 2.68151243256172E-05 </val>
+</var>
+<var>
+  <name> RightGlomerulusFiltrate.AnionAdjustment </name>
+  <val> 1 </val>
+</var>
+<var>
+  <name> RightGlomerulusFiltrate.CationAdjustment </name>
+  <val> 1 </val>
+</var>
+<var>
+  <name> RightGlomerulusFiltrate.KAdjustment </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightGlomerulusFiltrate.Pressure </name>
+  <val> 40.7708622993456 </val>
+</var>
+<var>
+  <name> RightGlomerulusFiltrate.FiltrationFraction </name>
+  <val> 0.0486026918741492 </val>
+</var>
+<var>
+  <name> RightGlomerulusFiltrate.EffCOP </name>
+  <val> 29.6984932779129 </val>
+</var>
+<var>
+  <name> RightGlomerulusFiltrate.[EffProtein] </name>
+  <val> 6.30651353409791 </val>
+</var>
+<var>
+  <name> RightGlomerulusFiltrate.PressureGradient </name>
+  <val> 2.89702623923236 </val>
+</var>
+<var>
+  <name> RightGlomerulusFiltrate.Perm </name>
+  <val> 11.11 </val>
+</var>
+<var>
+  <name> RightGlomerulusFiltrate.Kf </name>
+  <val> 11.11 </val>
+</var>
+<var>
+  <name> RightGlomerulusFiltrate.RightProximalTubule_Pressure </name>
+  <val> 8.17534278220035 </val>
+</var>
+<var>
+  <name> RightGlomerulusFiltrate.RightProximalTubule_Conductance </name>
+  <val> 3.28E-06 </val>
+</var>
+<var>
+  <name> RightGlomerulusFiltrate.PelvisPressure </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightGlomerulusFiltrate.GFR </name>
+  <val> 32.1781491907406 </val>
+</var>
+<var>
+  <name> RightGlomerulusFiltrate.EndGFR </name>
+  <val> 32.1859615178716 </val>
+</var>
+<var>
+  <name> RightGlomerulusFiltrate.SearchMax </name>
+  <val> 139.05049066413 </val>
+</var>
+<var>
+  <name> RightGlomerulusGlucose.Rate </name>
+  <val> 35.3959641098147 </val>
+</var>
+<var>
+  <name> RightGlomerulusGlucose.[Glucose] </name>
+  <val> 1.1 </val>
+</var>
+<var>
+  <name> RightGlomerulusKetoacid.Rate </name>
+  <val> 0.160890745953703 </val>
+</var>
+<var>
+  <name> RightGlomerulusKetoacid.[KA-] </name>
+  <val> 0.005 </val>
+</var>
+<var>
+  <name> RightGlomerulusKetoacid.Rate(mMol/Min) </name>
+  <val> 0.00157672931034629 </val>
+</var>
+<var>
+  <name> RightGlomerulusKetoacid.MG_TO_MMOL </name>
+  <val> 0.0098 </val>
+</var>
+<var>
+  <name> RightGlomerulusPhosphate.Rate </name>
+  <val> 5.50246351161664 </val>
+</var>
+<var>
+  <name> RightGlomerulusPhosphate.[PO4--] </name>
+  <val> 0.171 </val>
+</var>
+<var>
+  <name> RightGlomerulusProtein.Rate </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightGlomerulusProtein.[Protein] </name>
+  <val> 6 </val>
+</var>
+<var>
+  <name> RightGlomerulusProtein.Perm </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightGlomerulusProtein.ModPerm </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightGlomerulusProtein.AlbFiltered </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightGlomerulusProtein.AlbPerm </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightGlomerulusProtein.AlbRate </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightGlomerulusSodium.Rate </name>
+  <val> 4.6014753342759 </val>
+</var>
+<var>
+  <name> RightGlomerulusSodium.[Na+] </name>
+  <val> 143 </val>
+</var>
+<var>
+  <name> RightGlomerulusSulphate.Rate </name>
+  <val> 9.00988177340737 </val>
+</var>
+<var>
+  <name> RightGlomerulusSulphate.[SO4--] </name>
+  <val> 0.28 </val>
+</var>
+<var>
+  <name> RightGlomerulusUrea.Rate </name>
+  <val> 10.6831455313259 </val>
+</var>
+<var>
+  <name> RightGlomerulusUrea.[Urea] </name>
+  <val> 0.332 </val>
+</var>
+<var>
+  <name> RightLoopOfHenle_Na.Inflow </name>
+  <val> 2.28619761741626 </val>
+</var>
+<var>
+  <name> RightLoopOfHenle_Na.ModifiedInflow </name>
+  <val> 2.28619761741626 </val>
+</var>
+<var>
+  <name> RightLoopOfHenle_Na.Outflow </name>
+  <val> 0.433213422445299 </val>
+</var>
+<var>
+  <name> RightLoopOfHenle_Na.RightFractReab </name>
+  <val> 0.810509196954332 </val>
+</var>
+<var>
+  <name> RightLoopOfHenle_Na.Reab </name>
+  <val> 1.85298419497096 </val>
+</var>
+<var>
+  <name> RightLoopOfHenle_Na.BasicFract </name>
+  <val> 0.75 </val>
+</var>
+<var>
+  <name> RightLoopOfHenle_Na.TotalEffect </name>
+  <val> 1.36931089104855 </val>
+</var>
+<var>
+  <name> RightLoopOfHenle_Na.FlowEffect </name>
+  <val> 1.9561380847733 </val>
+</var>
+<var>
+  <name> RightLoopOfHenle_Na.LoadEffect </name>
+  <val> 1 </val>
+</var>
+<var>
+  <name> RightLoopOfHenle_Na.AldoEffect </name>
+  <val> 0.700007275410336 </val>
+</var>
+<var>
+  <name> RightLoopOfHenle_Na.FurosemideEffect </name>
+  <val> 1 </val>
+</var>
+<var>
+  <name> RightLoopOfHenle_Na.[Na+] </name>
+  <val> 38.7642847581601 </val>
+</var>
+<var>
+  <name> RightLoopOfHenle_Na.MaxReab </name>
+  <val> 4.5 </val>
+</var>
+<var>
+  <name> RightLoopOfHenle_Na.AldoA </name>
+  <val> 0.5 </val>
+</var>
+<var>
+  <name> RightLoopOfHenle_Na.AldoB </name>
+  <val> 0.7 </val>
+</var>
+<var>
+  <name> RightLoopOfHenle_Na.AldoS </name>
+  <val> 7.4 </val>
+</var>
+<var>
+  <name> RightLoopOfHenle_Na.AldoN </name>
+  <val> 2.1 </val>
+</var>
+<var>
+  <name> RightLoopOfHenle_Na.LoadA </name>
+  <val> 1.8 </val>
+</var>
+<var>
+  <name> RightLoopOfHenle_Na.LoadB </name>
+  <val> 0.2 </val>
+</var>
+<var>
+  <name> RightLoopOfHenle_Na.LoadS </name>
+  <val> 3.9 </val>
+</var>
+<var>
+  <name> RightLoopOfHenle_Na.LoadN </name>
+  <val> 2.35 </val>
+</var>
+<var>
+  <name> RightLoopOfHenle_H2O.Inflow </name>
+  <val> 15.9873959259878 </val>
+</var>
+<var>
+  <name> RightLoopOfHenle_H2O.Outflow </name>
+  <val> 11.1755814701084 </val>
+</var>
+<var>
+  <name> RightLoopOfHenle_H2O.RightFractReab </name>
+  <val> 0.300975498333518 </val>
+</var>
+<var>
+  <name> RightLoopOfHenle_H2O.Reab </name>
+  <val> 4.81181445587943 </val>
+</var>
+<var>
+  <name> RightLoopOfHenle_H2O.OsmEffect </name>
+  <val> 1.003625 </val>
+</var>
+<var>
+  <name> RightLoopOfHenle_H2O.RightLoopPerm(%) </name>
+  <val> 37 </val>
+</var>
+<var>
+  <name> RightMedullaNa.[Na+] </name>
+  <val> 0.425116279069767 </val>
+</var>
+<var>
+  <name> RightMedullaNa.[Na+(mEq/L)] </name>
+  <val> 425.116279069767 </val>
+</var>
+<var>
+  <name> RightMedullaNa.Osmolarity </name>
+  <val> 850.232558139535 </val>
+</var>
+<var>
+  <name> RightMedullaNa.Washup </name>
+  <val> 0.264729406065052 </val>
+</var>
+<var>
+  <name> RightMedullaNa.CCEfficiency </name>
+  <val> 96 </val>
+</var>
+<var>
+  <name> RightMedullaNa.CCK </name>
+  <val> 0.04 </val>
+</var>
+<var>
+  <name> RightMedullaNa.Mass </name>
+  <val> 7.312 </val>
+</var>
+<var>
+  <name> RightMedullaNa.Change </name>
+  <val> -0.18738693380004 </val>
+</var>
+<var>
+  <name> RightMedullaUrea.[Urea] </name>
+  <val> 18.8081395348837 </val>
+</var>
+<var>
+  <name> RightMedullaUrea.[Urea(mG/dL)] </name>
+  <val> 1880.81395348837 </val>
+</var>
+<var>
+  <name> RightMedullaUrea.Osmolarity </name>
+  <val> 313.531686046512 </val>
+</var>
+<var>
+  <name> RightMedullaUrea.MG_TO_MOSM </name>
+  <val> 16.67 </val>
+</var>
+<var>
+  <name> RightMedullaUrea.Washup </name>
+  <val> 14.6403109378495 </val>
+</var>
+<var>
+  <name> RightMedullaUrea.CCEfficiency </name>
+  <val> 95 </val>
+</var>
+<var>
+  <name> RightMedullaUrea.CCK </name>
+  <val> 0.05 </val>
+</var>
+<var>
+  <name> RightMedullaUrea.Mass </name>
+  <val> 323.5 </val>
+</var>
+<var>
+  <name> RightMedullaUrea.Change </name>
+  <val> -11.0759711008833 </val>
+</var>
+<var>
+  <name> RightMedulla.Volume </name>
+  <val> 17.2 </val>
+</var>
+<var>
+  <name> RightMedulla.[Osm] </name>
+  <val> 1163.76424418605 </val>
+</var>
+<var>
+  <name> RightMaculaDensa_Na.[Na+(mEq/L)] </name>
+  <val> 38.7642847581601 </val>
+</var>
+<var>
+  <name> RightMaculaDensa_Na.Na+Flow </name>
+  <val> 0.433213422445299 </val>
+</var>
+<var>
+  <name> RightTGF-Vascular.BasicSignal </name>
+  <val> 1 </val>
+</var>
+<var>
+  <name> RightTGF-Vascular.NaEffect </name>
+  <val> 0.28279414884756 </val>
+</var>
+<var>
+  <name> RightTGF-Vascular.A2Effect </name>
+  <val> 0.5 </val>
+</var>
+<var>
+  <name> RightTGF-Vascular.ANPEffect </name>
+  <val> 1.19 </val>
+</var>
+<var>
+  <name> RightTGF-Vascular.FurosemideEffect </name>
+  <val> 1 </val>
+</var>
+<var>
+  <name> RightTGF-Vascular.A2 </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightTGF-Vascular.ANP </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightTGF-Vascular.Clamp </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightTGF-Vascular.Level </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightTGF-Vascular.Na_A1Target </name>
+  <val> 1.5 </val>
+</var>
+<var>
+  <name> RightTGF-Vascular.Na_m1Target </name>
+  <val> 12 </val>
+</var>
+<var>
+  <name> RightTGF-Vascular.Na_S1Target </name>
+  <val> 40.8 </val>
+</var>
+<var>
+  <name> RightTGF-Vascular.Na_B1Target </name>
+  <val> 0.1 </val>
+</var>
+<var>
+  <name> RightTGF-Vascular.Na_ATarget </name>
+  <val> 0.78 </val>
+</var>
+<var>
+  <name> RightTGF-Vascular.Na_mTarget </name>
+  <val> 9.8 </val>
+</var>
+<var>
+  <name> RightTGF-Vascular.Na_STarget </name>
+  <val> 63.5 </val>
+</var>
+<var>
+  <name> RightTGF-Vascular.Na_BTarget </name>
+  <val> -0.35 </val>
+</var>
+<var>
+  <name> RightTGF-Vascular.A2_A1Target </name>
+  <val> 7 </val>
+</var>
+<var>
+  <name> RightTGF-Vascular.A2_m1Target </name>
+  <val> 10 </val>
+</var>
+<var>
+  <name> RightTGF-Vascular.A2_S1Target </name>
+  <val> 2.38 </val>
+</var>
+<var>
+  <name> RightTGF-Vascular.A2_B1Target </name>
+  <val> 1.12 </val>
+</var>
+<var>
+  <name> RightTGF-Vascular.A2_ATarget </name>
+  <val> 0.7 </val>
+</var>
+<var>
+  <name> RightTGF-Vascular.A2_mTarget </name>
+  <val> 2 </val>
+</var>
+<var>
+  <name> RightTGF-Vascular.A2_STarget </name>
+  <val> 0.7 </val>
+</var>
+<var>
+  <name> RightTGF-Vascular.A2_BTarget </name>
+  <val> -0.6 </val>
+</var>
+<var>
+  <name> RightTGF-Vascular.ANP_ATarget </name>
+  <val> 0.49 </val>
+</var>
+<var>
+  <name> RightTGF-Vascular.ANP_mTarget </name>
+  <val> 2.95 </val>
+</var>
+<var>
+  <name> RightTGF-Vascular.ANP_STarget </name>
+  <val> 1.52 </val>
+</var>
+<var>
+  <name> RightTGF-Vascular.ANP_BTarget </name>
+  <val> 0.7 </val>
+</var>
+<var>
+  <name> RightTGF-Vascular.Na_A1 </name>
+  <val> 1.5 </val>
+</var>
+<var>
+  <name> RightTGF-Vascular.dNaA1 </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightTGF-Vascular.Na_m1 </name>
+  <val> 12 </val>
+</var>
+<var>
+  <name> RightTGF-Vascular.dNam1 </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightTGF-Vascular.Na_S1 </name>
+  <val> 40.8 </val>
+</var>
+<var>
+  <name> RightTGF-Vascular.dNaS1 </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightTGF-Vascular.Na_B1 </name>
+  <val> 0.1 </val>
+</var>
+<var>
+  <name> RightTGF-Vascular.dNaB1 </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightTGF-Vascular.Na_A </name>
+  <val> 0.78 </val>
+</var>
+<var>
+  <name> RightTGF-Vascular.dNaA </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightTGF-Vascular.Na_m </name>
+  <val> 9.8 </val>
+</var>
+<var>
+  <name> RightTGF-Vascular.dNam </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightTGF-Vascular.Na_S </name>
+  <val> 63.5 </val>
+</var>
+<var>
+  <name> RightTGF-Vascular.dNaS </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightTGF-Vascular.Na_B </name>
+  <val> -0.35 </val>
+</var>
+<var>
+  <name> RightTGF-Vascular.dNaB </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightTGF-Vascular.A2_A1 </name>
+  <val> 7 </val>
+</var>
+<var>
+  <name> RightTGF-Vascular.dA2A1 </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightTGF-Vascular.A2_m1 </name>
+  <val> 8 </val>
+</var>
+<var>
+  <name> RightTGF-Vascular.dA2m1 </name>
+  <val> 0.1 </val>
+</var>
+<var>
+  <name> RightTGF-Vascular.A2_S1 </name>
+  <val> 2.45 </val>
+</var>
+<var>
+  <name> RightTGF-Vascular.dA2S1 </name>
+  <val> -0.00350000000000001 </val>
+</var>
+<var>
+  <name> RightTGF-Vascular.A2_B1 </name>
+  <val> 1.2 </val>
+</var>
+<var>
+  <name> RightTGF-Vascular.dA2B1 </name>
+  <val> -0.00399999999999999 </val>
+</var>
+<var>
+  <name> RightTGF-Vascular.A2_A </name>
+  <val> 0.78 </val>
+</var>
+<var>
+  <name> RightTGF-Vascular.dA2A </name>
+  <val> -0.004 </val>
+</var>
+<var>
+  <name> RightTGF-Vascular.A2_m </name>
+  <val> 2 </val>
+</var>
+<var>
+  <name> RightTGF-Vascular.dA2m </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightTGF-Vascular.A2_S </name>
+  <val> 0.7 </val>
+</var>
+<var>
+  <name> RightTGF-Vascular.dA2S </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightTGF-Vascular.A2_B </name>
+  <val> -0.7 </val>
+</var>
+<var>
+  <name> RightTGF-Vascular.dA2B </name>
+  <val> 0.005 </val>
+</var>
+<var>
+  <name> RightTGF-Vascular.ANP_A </name>
+  <val> 0.49 </val>
+</var>
+<var>
+  <name> RightTGF-Vascular.dANPA </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightTGF-Vascular.ANP_m </name>
+  <val> 2.95 </val>
+</var>
+<var>
+  <name> RightTGF-Vascular.dANPm </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightTGF-Vascular.ANP_S </name>
+  <val> 1.52 </val>
+</var>
+<var>
+  <name> RightTGF-Vascular.dANPS </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightTGF-Vascular.ANP_B </name>
+  <val> 0.7 </val>
+</var>
+<var>
+  <name> RightTGF-Vascular.dANPB </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightTGF-Vascular.Signal </name>
+  <val> 1 </val>
+</var>
+<var>
+  <name> RightTGF-Vascular.Steady-State </name>
+  <val> 0.168262518564298 </val>
+</var>
+<var>
+  <name> RightTGF-Vascular.K </name>
+  <val> 0.5 </val>
+</var>
+<var>
+  <name> RightTGF-Vascular.DxMax </name>
+  <val> 0.2 </val>
+</var>
+<var>
+  <name> RightTGF-Vascular.Derv </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> RightTGF-Renin.BasicSignal </name>
+  <val> 1 </val>
+</var>
+<var>
+  <name> RightTGF-Renin.Signal </name>
+  <val> 0.968 </val>
+</var>
+<var>
+  <name> RightTGF-Renin.A2Effect </name>
+  <val> 1 </val>
+</var>
+<var>
+  <name> RightTGF-Renin.ANPEffect </name>
+  <val> 0.968 </val>
+</var>
+<var>
+  <name> RightTGF-Renin.FurosemideEffect </name>
+  <val> 1 </val>
+</var>
+<var>
+  <name> RightTGF-Renin.A2 </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightTGF-Renin.ANP </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightTGF-Renin.Clamp </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightTGF-Renin.Level </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightTGF-Renin.L </name>
+  <val> 0.99 </val>
+</var>
+<var>
+  <name> RightTGF-Renin.Na_ATarget </name>
+  <val> 2.5 </val>
+</var>
+<var>
+  <name> RightTGF-Renin.Na_mTarget </name>
+  <val> 7.5 </val>
+</var>
+<var>
+  <name> RightTGF-Renin.Na_STarget </name>
+  <val> 50.9 </val>
+</var>
+<var>
+  <name> RightTGF-Renin.Na_BTarget </name>
+  <val> 0.075 </val>
+</var>
+<var>
+  <name> RightTGF-Renin.A2_ATarget </name>
+  <val> 4.4 </val>
+</var>
+<var>
+  <name> RightTGF-Renin.A2_mTarget </name>
+  <val> 8 </val>
+</var>
+<var>
+  <name> RightTGF-Renin.A2_STarget </name>
+  <val> 2.9 </val>
+</var>
+<var>
+  <name> RightTGF-Renin.A2_BTarget </name>
+  <val> 1 </val>
+</var>
+<var>
+  <name> RightTGF-Renin.ANP_ATarget </name>
+  <val> 2 </val>
+</var>
+<var>
+  <name> RightTGF-Renin.ANP_mTarget </name>
+  <val> 4.4 </val>
+</var>
+<var>
+  <name> RightTGF-Renin.ANP_STarget </name>
+  <val> 3.3 </val>
+</var>
+<var>
+  <name> RightTGF-Renin.ANP_BTarget </name>
+  <val> 0.968 </val>
+</var>
+<var>
+  <name> RightTGF-Renin.NaEffect </name>
+  <val> 1 </val>
+</var>
+<var>
+  <name> RightTGF-Renin.Steady-State </name>
+  <val> 0.358809672019656 </val>
+</var>
+<var>
+  <name> RightTGF-Renin.K </name>
+  <val> 0.5 </val>
+</var>
+<var>
+  <name> RightTGF-Renin.DxMax </name>
+  <val> 0.2 </val>
+</var>
+<var>
+  <name> RightTGF-Renin.Derv </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> RightTGF-Renin.Na_A </name>
+  <val> 2.5 </val>
+</var>
+<var>
+  <name> RightTGF-Renin.dNaA </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightTGF-Renin.Na_m </name>
+  <val> 7.5 </val>
+</var>
+<var>
+  <name> RightTGF-Renin.dNam </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightTGF-Renin.Na_S </name>
+  <val> 51.5 </val>
+</var>
+<var>
+  <name> RightTGF-Renin.dNaS </name>
+  <val> -0.0300000000000001 </val>
+</var>
+<var>
+  <name> RightTGF-Renin.Na_B </name>
+  <val> 0.075 </val>
+</var>
+<var>
+  <name> RightTGF-Renin.dNaB </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightTGF-Renin.A2_A </name>
+  <val> 4.4 </val>
+</var>
+<var>
+  <name> RightTGF-Renin.dA2A </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightTGF-Renin.A2_m </name>
+  <val> 8 </val>
+</var>
+<var>
+  <name> RightTGF-Renin.dA2m </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightTGF-Renin.A2_S </name>
+  <val> 2.9 </val>
+</var>
+<var>
+  <name> RightTGF-Renin.dA2S </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightTGF-Renin.A2_B </name>
+  <val> 1 </val>
+</var>
+<var>
+  <name> RightTGF-Renin.dA2B </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightTGF-Renin.ANP_A </name>
+  <val> 2 </val>
+</var>
+<var>
+  <name> RightTGF-Renin.dANPA </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightTGF-Renin.ANP_m </name>
+  <val> 4.4 </val>
+</var>
+<var>
+  <name> RightTGF-Renin.dANPm </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightTGF-Renin.ANP_S </name>
+  <val> 3.3 </val>
+</var>
+<var>
+  <name> RightTGF-Renin.dANPS </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightTGF-Renin.ANP_B </name>
+  <val> 0.968 </val>
+</var>
+<var>
+  <name> RightTGF-Renin.dANPB </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightProximalTubule_Na.Inflow </name>
+  <val> 4.6014753342759 </val>
+</var>
+<var>
+  <name> RightProximalTubule_Na.Outflow </name>
+  <val> 2.28619761741626 </val>
+</var>
+<var>
+  <name> RightProximalTubule_Na.RightFractReab </name>
+  <val> 0.503159866926459 </val>
+</var>
+<var>
+  <name> RightProximalTubule_Na.Reab </name>
+  <val> 2.31527771685965 </val>
+</var>
+<var>
+  <name> RightProximalTubule_Na.A2 </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightProximalTubule_Na.BasicFract </name>
+  <val> 0.58 </val>
+</var>
+<var>
+  <name> RightProximalTubule_Na.TotalEffect </name>
+  <val> 0.793083338431552 </val>
+</var>
+<var>
+  <name> RightProximalTubule_Na.LoadEffect </name>
+  <val> 1.12255576284768 </val>
+</var>
+<var>
+  <name> RightProximalTubule_Na.A2Effect </name>
+  <val> 0.8 </val>
+</var>
+<var>
+  <name> RightProximalTubule_Na.SympsEffect </name>
+  <val> 0.71114941196841 </val>
+</var>
+<var>
+  <name> RightProximalTubule_Na.ANPEffect </name>
+  <val> 1.18 </val>
+</var>
+<var>
+  <name> RightProximalTubule_Na.IFPEffect </name>
+  <val> 1.18137010448022 </val>
+</var>
+<var>
+  <name> RightProximalTubule_Na.[Na+] </name>
+  <val> 143 </val>
+</var>
+<var>
+  <name> RightProximalTubule_Na.MaxReab </name>
+  <val> 10 </val>
+</var>
+<var>
+  <name> RightProximalTubule_Na.ANPClamp </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightProximalTubule_Na.ANPLevel </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightProximalTubule_Na.A2_ATarget </name>
+  <val> 0.7 </val>
+</var>
+<var>
+  <name> RightProximalTubule_Na.A2_BTarget </name>
+  <val> 0.6 </val>
+</var>
+<var>
+  <name> RightProximalTubule_Na.A2_STarget </name>
+  <val> 0.964 </val>
+</var>
+<var>
+  <name> RightProximalTubule_Na.A2_mTarget </name>
+  <val> 7.8 </val>
+</var>
+<var>
+  <name> RightProximalTubule_Na.Symps_ATarget </name>
+  <val> 0.92 </val>
+</var>
+<var>
+  <name> RightProximalTubule_Na.Symps_BTarget </name>
+  <val> 0.62 </val>
+</var>
+<var>
+  <name> RightProximalTubule_Na.Symps_STarget </name>
+  <val> 1.2 </val>
+</var>
+<var>
+  <name> RightProximalTubule_Na.Symps_mTarget </name>
+  <val> 2.5 </val>
+</var>
+<var>
+  <name> RightProximalTubule_Na.ANP_ATarget </name>
+  <val> 0.68 </val>
+</var>
+<var>
+  <name> RightProximalTubule_Na.ANP_BTarget </name>
+  <val> 0.5 </val>
+</var>
+<var>
+  <name> RightProximalTubule_Na.ANP_STarget </name>
+  <val> 1.8 </val>
+</var>
+<var>
+  <name> RightProximalTubule_Na.ANP_mTarget </name>
+  <val> 3.2 </val>
+</var>
+<var>
+  <name> RightProximalTubule_Na.IFP_ATarget </name>
+  <val> 1.4 </val>
+</var>
+<var>
+  <name> RightProximalTubule_Na.IFP_BTarget </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightProximalTubule_Na.IFP_STarget </name>
+  <val> 5 </val>
+</var>
+<var>
+  <name> RightProximalTubule_Na.IFP_mTarget </name>
+  <val> -4 </val>
+</var>
+<var>
+  <name> RightProximalTubule_Na.A2_A </name>
+  <val> 0.7 </val>
+</var>
+<var>
+  <name> RightProximalTubule_Na.dA2A </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightProximalTubule_Na.A2_m </name>
+  <val> 7.8 </val>
+</var>
+<var>
+  <name> RightProximalTubule_Na.dA2m </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightProximalTubule_Na.A2_S </name>
+  <val> 0.964 </val>
+</var>
+<var>
+  <name> RightProximalTubule_Na.dA2S </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightProximalTubule_Na.A2_B </name>
+  <val> 0.6 </val>
+</var>
+<var>
+  <name> RightProximalTubule_Na.dA2B </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightProximalTubule_Na.Symps_A </name>
+  <val> 0.92 </val>
+</var>
+<var>
+  <name> RightProximalTubule_Na.dSympsA </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightProximalTubule_Na.Symps_m </name>
+  <val> 2.5 </val>
+</var>
+<var>
+  <name> RightProximalTubule_Na.dSympsm </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightProximalTubule_Na.Symps_S </name>
+  <val> 1.2 </val>
+</var>
+<var>
+  <name> RightProximalTubule_Na.dSympsS </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightProximalTubule_Na.Symps_B </name>
+  <val> 0.62 </val>
+</var>
+<var>
+  <name> RightProximalTubule_Na.dSympsB </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightProximalTubule_Na.ANP_A </name>
+  <val> 0.68 </val>
+</var>
+<var>
+  <name> RightProximalTubule_Na.dANPA </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightProximalTubule_Na.ANP_m </name>
+  <val> 3.2 </val>
+</var>
+<var>
+  <name> RightProximalTubule_Na.dANPm </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightProximalTubule_Na.ANP_S </name>
+  <val> 1.8 </val>
+</var>
+<var>
+  <name> RightProximalTubule_Na.dANPS </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightProximalTubule_Na.ANP_B </name>
+  <val> 0.5 </val>
+</var>
+<var>
+  <name> RightProximalTubule_Na.dANPB </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightProximalTubule_Na.IFP_A </name>
+  <val> 1.4 </val>
+</var>
+<var>
+  <name> RightProximalTubule_Na.dIFPA </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightProximalTubule_Na.IFP_m </name>
+  <val> -4 </val>
+</var>
+<var>
+  <name> RightProximalTubule_Na.dIFPm </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightProximalTubule_Na.IFP_S </name>
+  <val> 5 </val>
+</var>
+<var>
+  <name> RightProximalTubule_Na.dIFPS </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightProximalTubule_Na.IFP_B </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightProximalTubule_Na.dIFPB </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightProximalTubule_H2O.Inflow </name>
+  <val> 32.1781491907406 </val>
+</var>
+<var>
+  <name> RightProximalTubule_H2O.Outflow </name>
+  <val> 15.9873959259878 </val>
+</var>
+<var>
+  <name> RightProximalTubule_H2O.RightFractReab </name>
+  <val> 0.503159866926459 </val>
+</var>
+<var>
+  <name> RightProximalTubule_H2O.Reab </name>
+  <val> 16.1907532647528 </val>
+</var>
+<var>
+  <name> RightProximalTubule_NH3.SecretionRate </name>
+  <val> 0.0230562414266205 </val>
+</var>
+<var>
+  <name> RightProximalTubule_NH3.BasicRate </name>
+  <val> 0.02 </val>
+</var>
+<var>
+  <name> RightProximalTubule_NH3.Tau </name>
+  <val> 3 </val>
+</var>
+<var>
+  <name> RightProximalTubule_NH3.AcutePhEffect </name>
+  <val> 1.15281207133103 </val>
+</var>
+<var>
+  <name> RightNephronIFP.Pressure </name>
+  <val> 3.27944911792137 </val>
+</var>
+<var>
+  <name> RightNephronIFP.Clamp </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightNephronIFP.Level </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightNephronIFP.K </name>
+  <val> 0.042 </val>
+</var>
+<var>
+  <name> RightNephronAldo.[Aldo(pMol/L)-Bound] </name>
+  <val> 1 </val>
+</var>
+<var>
+  <name> RightNephronAldo.[Aldo(nG/dL)-Bound] </name>
+  <val> 0.0368 </val>
+</var>
+<var>
+  <name> RightNephronAldo.[Aldo(pMol/L)-Nucleus] </name>
+  <val> 1 </val>
+</var>
+<var>
+  <name> RightNephronAldo.[Aldo(nG/dL)-Nucleus] </name>
+  <val> 0.0368 </val>
+</var>
+<var>
+  <name> RightNephronAldo.PMOL_L_TO_NG_DL </name>
+  <val> 0.0368 </val>
+</var>
+<var>
+  <name> RightNephronADH.[ADH] </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightNephronADH.Log10Conc </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightVasaRecta.Inflow </name>
+  <val> 15.636217805826 </val>
+</var>
+<var>
+  <name> RightVasaRecta.Outflow </name>
+  <val> 15.5680586170641 </val>
+</var>
+<var>
+  <name> RightVasaRecta.Conductance </name>
+  <val> 0.200253495093391 </val>
+</var>
+<var>
+  <name> RightVasaRecta.ADHEffect </name>
+  <val> 1.4 </val>
+</var>
+<var>
+  <name> RightVasaRecta.OsmEffect </name>
+  <val> 0.94841983056785 </val>
+</var>
+<var>
+  <name> RightVasaRecta.LOGA2 </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightVasaRecta.A2Effect </name>
+  <val> 1.27 </val>
+</var>
+<var>
+  <name> RightVasaRecta.SympsEffect </name>
+  <val> 1.09957274502838 </val>
+</var>
+<var>
+  <name> RightVasaRecta.BasicConductance </name>
+  <val> 0.108 </val>
+</var>
+<var>
+  <name> RightVasaRecta.ADH_ATarget </name>
+  <val> 0.5 </val>
+</var>
+<var>
+  <name> RightVasaRecta.ADH_mTarget </name>
+  <val> 2.8 </val>
+</var>
+<var>
+  <name> RightVasaRecta.ADH_STarget </name>
+  <val> 0.19 </val>
+</var>
+<var>
+  <name> RightVasaRecta.ADH_BTarget </name>
+  <val> 0.9 </val>
+</var>
+<var>
+  <name> RightVasaRecta.Osm_ATarget </name>
+  <val> 0.65 </val>
+</var>
+<var>
+  <name> RightVasaRecta.Osm_mTarget </name>
+  <val> 6 </val>
+</var>
+<var>
+  <name> RightVasaRecta.Osm_STarget </name>
+  <val> 950 </val>
+</var>
+<var>
+  <name> RightVasaRecta.Osm_BTarget </name>
+  <val> 0.8 </val>
+</var>
+<var>
+  <name> RightVasaRecta.A2_ATarget </name>
+  <val> 1.1 </val>
+</var>
+<var>
+  <name> RightVasaRecta.A2_mTarget </name>
+  <val> 5 </val>
+</var>
+<var>
+  <name> RightVasaRecta.A2_STarget </name>
+  <val> 1.6 </val>
+</var>
+<var>
+  <name> RightVasaRecta.A2_BTarget </name>
+  <val> 0.17 </val>
+</var>
+<var>
+  <name> RightVasaRecta.Symps_ATarget </name>
+  <val> 0.5 </val>
+</var>
+<var>
+  <name> RightVasaRecta.Symps_mTarget </name>
+  <val> 8 </val>
+</var>
+<var>
+  <name> RightVasaRecta.Symps_STarget </name>
+  <val> 1.2 </val>
+</var>
+<var>
+  <name> RightVasaRecta.Symps_BTarget </name>
+  <val> 0.6 </val>
+</var>
+<var>
+  <name> RightVasaRecta.test </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightVasaRecta.ADH_A </name>
+  <val> 0.5 </val>
+</var>
+<var>
+  <name> RightVasaRecta.dADHA </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightVasaRecta.ADH_m </name>
+  <val> 2.8 </val>
+</var>
+<var>
+  <name> RightVasaRecta.dADHm </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightVasaRecta.ADH_S </name>
+  <val> 0.19 </val>
+</var>
+<var>
+  <name> RightVasaRecta.dADHS </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightVasaRecta.ADH_B </name>
+  <val> 0.9 </val>
+</var>
+<var>
+  <name> RightVasaRecta.dADHB </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightVasaRecta.Osm_A </name>
+  <val> 0.65 </val>
+</var>
+<var>
+  <name> RightVasaRecta.dOsmA </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightVasaRecta.Osm_m </name>
+  <val> 6 </val>
+</var>
+<var>
+  <name> RightVasaRecta.dOsmm </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightVasaRecta.Osm_S </name>
+  <val> 950 </val>
+</var>
+<var>
+  <name> RightVasaRecta.dOsmS </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightVasaRecta.Osm_B </name>
+  <val> 0.8 </val>
+</var>
+<var>
+  <name> RightVasaRecta.dOsmB </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightVasaRecta.A2_A </name>
+  <val> 1.1 </val>
+</var>
+<var>
+  <name> RightVasaRecta.dA2A </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightVasaRecta.A2_m </name>
+  <val> 5 </val>
+</var>
+<var>
+  <name> RightVasaRecta.dA2m </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightVasaRecta.A2_S </name>
+  <val> 1.6 </val>
+</var>
+<var>
+  <name> RightVasaRecta.dA2S </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightVasaRecta.A2_B </name>
+  <val> 0.17 </val>
+</var>
+<var>
+  <name> RightVasaRecta.dA2B </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightVasaRecta.Symps_A </name>
+  <val> 0.5 </val>
+</var>
+<var>
+  <name> RightVasaRecta.dSympsA </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightVasaRecta.Symps_m </name>
+  <val> 8 </val>
+</var>
+<var>
+  <name> RightVasaRecta.dSympsm </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightVasaRecta.Symps_S </name>
+  <val> 1.2 </val>
+</var>
+<var>
+  <name> RightVasaRecta.dSympsS </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightVasaRecta.Symps_B </name>
+  <val> 0.6 </val>
+</var>
+<var>
+  <name> RightVasaRecta.dSympsB </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightNephronGlucose.TMaxBasic </name>
+  <val> 210 </val>
+</var>
+<var>
+  <name> RightNephronGlucose.TMax </name>
+  <val> 210 </val>
+</var>
+<var>
+  <name> RightNephronGlucose.Reab </name>
+  <val> 35.3959641098147 </val>
+</var>
+<var>
+  <name> RightNephronGlucose.Spillover </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightNephronGlucose.Spillover(mMol/Min) </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightNephronGlucose.FractionalFiltration </name>
+  <val> 0.168552210046736 </val>
+</var>
+<var>
+  <name> RightNephronGlucose.FractionalReabsorption </name>
+  <val> 0.168552210046736 </val>
+</var>
+<var>
+  <name> RightNephronGlucose.MG_TO_MMOL </name>
+  <val> 0.00555 </val>
+</var>
+<var>
+  <name> RightNephronKetoacids.Filtration </name>
+  <val> 0.160890745953703 </val>
+</var>
+<var>
+  <name> RightNephronKetoacids.Filtration(mMol/Min) </name>
+  <val> 0.00157672931034629 </val>
+</var>
+<var>
+  <name> RightNephronKetoacids.Reabsorption </name>
+  <val> 0.160889083253733 </val>
+</var>
+<var>
+  <name> RightNephronKetoacids.Reabsorption(mMol/Min) </name>
+  <val> 0.00157671301588658 </val>
+</var>
+<var>
+  <name> RightNephronKetoacids.Excretion </name>
+  <val> 1.66269997037283E-06 </val>
+</var>
+<var>
+  <name> RightNephronKetoacids.Excretion(mMol/Min) </name>
+  <val> 1.62944597096537E-08 </val>
+</var>
+<var>
+  <name> RightNephronKetoacids.FractionalReabsorption </name>
+  <val> 0.999989665658143 </val>
+</var>
+<var>
+  <name> RightNephronKetoacids.MG_TO_MMOL </name>
+  <val> 0.0098 </val>
+</var>
+<var>
+  <name> RightNephronANP.[ANP] </name>
+  <val> 1 </val>
+</var>
+<var>
+  <name> RightNephronANP.ANPLog10Conc </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightNephronCalciumProximal.FractionalReab </name>
+  <val> 0.9 </val>
+</var>
+<var>
+  <name> RightNephronCalciumProximal.Inflow </name>
+  <val> 0.474627700563424 </val>
+</var>
+<var>
+  <name> RightNephronCalciumProximal.Reab </name>
+  <val> 0.427164930507081 </val>
+</var>
+<var>
+  <name> RightNephronCalciumProximal.Outflow </name>
+  <val> 0.0474627700563424 </val>
+</var>
+<var>
+  <name> RightNephronCalciumDistal.BasicReab </name>
+  <val> 0.9 </val>
+</var>
+<var>
+  <name> RightNephronCalciumDistal.FractionalReab </name>
+  <val> 6.13783349574303E-74 </val>
+</var>
+<var>
+  <name> RightNephronCalciumDistal.Inflow </name>
+  <val> 0.0474627700563424 </val>
+</var>
+<var>
+  <name> RightNephronCalciumDistal.Reab </name>
+  <val> 2.91318579852567E-75 </val>
+</var>
+<var>
+  <name> RightNephronCalciumDistal.Outflow </name>
+  <val> 0.0474627700563424 </val>
+</var>
+<var>
+  <name> RightNephronCalciumDistal.Excretion </name>
+  <val> 0.0474627700563424 </val>
+</var>
+<var>
+  <name> RightNephronCalciumDistal.[PTH]Effect </name>
+  <val> 0.000624999999999996 </val>
+</var>
+<var>
+  <name> Metabolism-Tools.CalToO2 </name>
+  <val> 0.2093 </val>
+</var>
+<var>
+  <name> Metabolism-Tools.O2ToCal </name>
+  <val> 4.778 </val>
+</var>
+<var>
+  <name> Metabolism-Tools.FatCalToCO2 </name>
+  <val> 0.1465 </val>
+</var>
+<var>
+  <name> Metabolism-Tools.CarboCalToCO2 </name>
+  <val> 0.2093 </val>
+</var>
+<var>
+  <name> Metabolism-Tools.WattToKPM </name>
+  <val> 6.12 </val>
+</var>
+<var>
+  <name> Metabolism-Tools.CAL_MIN_TO_KCAL_DAY </name>
+  <val> 1.44 </val>
+</var>
+<var>
+  <name> Metabolism-Tools.CAL_MIN_TO_WATT </name>
+  <val> 0.0697 </val>
+</var>
+<var>
+  <name> Metabolism-Tools.KCAL_MIN_TO_WATT </name>
+  <val> 69.7 </val>
+</var>
+<var>
+  <name> Metabolism-Tools.WATT_TO_CAL_MIN </name>
+  <val> 14.34 </val>
+</var>
+<var>
+  <name> Metabolism-Tools.WATT_TO_KCAL_MIN </name>
+  <val> 0.0143 </val>
+</var>
+<var>
+  <name> Metabolism-Tools.CAL_TO_JOULE </name>
+  <val> 4.19 </val>
+</var>
+<var>
+  <name> Metabolism-Tools.CarboAerobic(kCal/G) </name>
+  <val> 4.1 </val>
+</var>
+<var>
+  <name> Metabolism-Tools.CarboAerobic(kCal/mG) </name>
+  <val> 0.0041 </val>
+</var>
+<var>
+  <name> Metabolism-Tools.CarboAerobic(mG/kCal) </name>
+  <val> 243.9 </val>
+</var>
+<var>
+  <name> Metabolism-Tools.CarboAerobic(mG/Cal) </name>
+  <val> 0.2439 </val>
+</var>
+<var>
+  <name> Metabolism-Tools.CarboAnaerobic(kCal/G) </name>
+  <val> 0.1577 </val>
+</var>
+<var>
+  <name> Metabolism-Tools.CarboAnaerobic(kCal/mG) </name>
+  <val> 0.0001577 </val>
+</var>
+<var>
+  <name> Metabolism-Tools.CarboAnaerobic(mG/kCal) </name>
+  <val> 6341.1 </val>
+</var>
+<var>
+  <name> Metabolism-Tools.CarboAnaerobic(mG/Cal) </name>
+  <val> 6.3411 </val>
+</var>
+<var>
+  <name> Metabolism-Tools.Fat(kCal/G) </name>
+  <val> 9.3 </val>
+</var>
+<var>
+  <name> Metabolism-Tools.Fat(kCal/mG) </name>
+  <val> 0.0093 </val>
+</var>
+<var>
+  <name> Metabolism-Tools.Fat(mG/kCal) </name>
+  <val> 107.5 </val>
+</var>
+<var>
+  <name> Metabolism-Tools.Fat(mG/Cal) </name>
+  <val> 0.1075 </val>
+</var>
+<var>
+  <name> Metabolism-Tools.Protein(kCal/G) </name>
+  <val> 4.35 </val>
+</var>
+<var>
+  <name> Metabolism-Tools.Lac-(kCal/G) </name>
+  <val> 3.94 </val>
+</var>
+<var>
+  <name> Metabolism-Tools.Lac-(mG/Cal) </name>
+  <val> 0.2538 </val>
+</var>
+<var>
+  <name> Metabolism-Tools.Carbo(Cal/mG) </name>
+  <val> 4.1 </val>
+</var>
+<var>
+  <name> Metabolism-Tools.Fat(Cal/mG) </name>
+  <val> 9.3 </val>
+</var>
+<var>
+  <name> Metabolism-Tools.Protein(Cal/mG) </name>
+  <val> 4.35 </val>
+</var>
+<var>
+  <name> Metabolism-Tools.Lac(Cal/mG) </name>
+  <val> 3.94 </val>
+</var>
+<var>
+  <name> Metabolism-Tools.CARBY_MMOL_TO_ATP_MMOL </name>
+  <val> 36 </val>
+</var>
+<var>
+  <name> Metabolism-Tools.O2_MMOL_TO_ATP_MMOL </name>
+  <val> 6 </val>
+</var>
+<var>
+  <name> Metabolism-Tools.O2_MMOL_TO_O2_ML </name>
+  <val> 22.4 </val>
+</var>
+<var>
+  <name> Metabolism-Tools.O2_ML_TO_O2_MMOL </name>
+  <val> 0.0446 </val>
+</var>
+<var>
+  <name> Metabolism-Tools.O2_ML_TO_ATP_MMOL </name>
+  <val> 0.2678 </val>
+</var>
+<var>
+  <name> Metabolism-FuelUse.GlycerolTotal </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> Metabolism-FuelUse.GlycerolUptake </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> Metabolism-FuelUse.GlycerolStored </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> Metabolism-MetabolicRate.Total(Cal/Min) </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> Metabolism-MetabolicRate.Total(Cal/Day) </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> Metabolism-MetabolicRate.Total(kCal/Min) </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> Metabolism-MetabolicRate.Total(kCal/Day) </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> Metabolism-MetabolicRate.BMRUnits </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> Metabolism-MetabolicRate.BMRNormal </name>
+  <val> 36.9 </val>
+</var>
+<var>
+  <name> Metabolism-MetabolicRate.BMR(%) </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> Metabolism-MetabolicRate.Watts </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> Metabolism-RespiratoryQuotient.RQ </name>
+  <val> 0.8 </val>
+</var>
+<var>
+  <name> Metabolism-Glucose.TotalBurn </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> Metabolism-Glucose.GlucoseBurn </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> Metabolism-Glucose.TotalUptake </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> Metabolism-Glucose.GlucoseUptake </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> Metabolism-FattyAcid.TotalBurn </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> Alpha1Pool.TotalAlpha1 </name>
+  <val> 4 </val>
+</var>
+<var>
+  <name> Alpha1Pool.kd_epi </name>
+  <val> 5 </val>
+</var>
+<var>
+  <name> Alpha1Pool.kd_norepi </name>
+  <val> 5 </val>
+</var>
+<var>
+  <name> Alpha1Pool.kd_desglymido </name>
+  <val> 150 </val>
+</var>
+<var>
+  <name> Alpha1Pool.kd_phenyl </name>
+  <val> 40 </val>
+</var>
+<var>
+  <name> Alpha1Pool.epibound </name>
+  <val> 0.0330827067669173 </val>
+</var>
+<var>
+  <name> Alpha1Pool.norepibound </name>
+  <val> 0.215037593984962 </val>
+</var>
+<var>
+  <name> Alpha1Pool.desglymidobound </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> Alpha1Pool.phenylbound </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> Alpha1Pool.epi </name>
+  <val> 0.22 </val>
+</var>
+<var>
+  <name> Alpha1Pool.norepi </name>
+  <val> 1.43 </val>
+</var>
+<var>
+  <name> Alpha1Pool.desglymido </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> Alpha1Pool.phenyl </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> Alpha1Pool.denominator </name>
+  <val> 199500 </val>
+</var>
+<var>
+  <name> Alpha1Pool.ReceptorActivity </name>
+  <val> 0.992481203007519 </val>
+</var>
+<var>
+  <name> Alpha1Pool.Effect </name>
+  <val> 0.992481203007519 </val>
+</var>
+<var>
+  <name> Alpha1Pool.Block(%) </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> Beta1Pool.Effect </name>
+  <val> 1.01296679998073 </val>
+</var>
+<var>
+  <name> Beta1Pool.Antagonism </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> Beta1Pool.TotalBeta1 </name>
+  <val> 1.45 </val>
+</var>
+<var>
+  <name> Beta1Pool.Block(%) </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> Beta1Pool.kd_iso </name>
+  <val> 0.1 </val>
+</var>
+<var>
+  <name> Beta1Pool.kd_epi </name>
+  <val> 1.12 </val>
+</var>
+<var>
+  <name> Beta1Pool.kd_norepi </name>
+  <val> 0.973 </val>
+</var>
+<var>
+  <name> Beta1Pool.kd_pro </name>
+  <val> 2.5 </val>
+</var>
+<var>
+  <name> Beta1Pool.isobound </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> Beta1Pool.epibound </name>
+  <val> 0.0736760950224064 </val>
+</var>
+<var>
+  <name> Beta1Pool.norepibound </name>
+  <val> 0.551245603045343 </val>
+</var>
+<var>
+  <name> Beta1Pool.probound </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> Beta1Pool.iso </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> Beta1Pool.epi </name>
+  <val> 0.22 </val>
+</var>
+<var>
+  <name> Beta1Pool.norepi </name>
+  <val> 1.43 </val>
+</var>
+<var>
+  <name> Beta1Pool.pro </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> Beta1Pool.denominator </name>
+  <val> 0.726355 </val>
+</var>
+<var>
+  <name> Beta1Pool.ReceptorActivity </name>
+  <val> 1.01296679998073 </val>
+</var>
+<var>
+  <name> Beta2Pool.Effect </name>
+  <val> 1.01711862781527 </val>
+</var>
+<var>
+  <name> Beta2Pool.Total </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> Beta2Pool.TotalBeta2 </name>
+  <val> 4.35 </val>
+</var>
+<var>
+  <name> Beta2Pool.kd_iso </name>
+  <val> 0.241 </val>
+</var>
+<var>
+  <name> Beta2Pool.kd_epi </name>
+  <val> 1.035 </val>
+</var>
+<var>
+  <name> Beta2Pool.kd_norepi </name>
+  <val> 15.44 </val>
+</var>
+<var>
+  <name> Beta2Pool.kd_pro </name>
+  <val> 2.5 </val>
+</var>
+<var>
+  <name> Beta2Pool.isobound </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> Beta2Pool.epibound </name>
+  <val> 0.162859437365904 </val>
+</var>
+<var>
+  <name> Beta2Pool.norepibound </name>
+  <val> 0.0709609368445025 </val>
+</var>
+<var>
+  <name> Beta2Pool.probound </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> Beta2Pool.iso </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> Beta2Pool.epi </name>
+  <val> 0.22 </val>
+</var>
+<var>
+  <name> Beta2Pool.pro </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> Beta2Pool.denominator </name>
+  <val> 12.566493125 </val>
+</var>
+<var>
+  <name> Beta2Pool.norepi </name>
+  <val> 1.43 </val>
+</var>
+<var>
+  <name> Beta2Pool.ReceptorActivity </name>
+  <val> 1.01711862781527 </val>
+</var>
+<var>
+  <name> Beta2Pool.Block(%) </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> Beta2Pool.Antagonism </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> CellSID.WeakAnions </name>
+  <val> 0.036 </val>
+</var>
+<var>
+  <name> CellSID.StrongAnions </name>
+  <val> 0.117 </val>
+</var>
+<var>
+  <name> CellSID.OtherCations </name>
+  <val> 0.012 </val>
+</var>
+<var>
+  <name> CellSID.LessLac </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> PhGeneral.pH </name>
+  <val> 7.25424952288899 </val>
+</var>
+<var>
+  <name> PhGeneral.pK </name>
+  <val> 7.15 </val>
+</var>
+<var>
+  <name> PhGeneral.pCO2 </name>
+  <val> 32.7294131231672 </val>
+</var>
+<var>
+  <name> PhGeneral.SID </name>
+  <val> 41.6090443066687 </val>
+</var>
+<var>
+  <name> PhGeneral.H+ </name>
+  <val> 55.6865711097323 </val>
+</var>
+<var>
+  <name> PhBlood.pH </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> PhBlood.pK </name>
+  <val> 7.42 </val>
+</var>
+<var>
+  <name> PhBlood.pCO2 </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> PhBlood.SID </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> PhBlood.H+ </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> PhCells.pH </name>
+  <val> 7.25424952288899 </val>
+</var>
+<var>
+  <name> PhCells.pK </name>
+  <val> 7.15 </val>
+</var>
+<var>
+  <name> PhCells.pCO2 </name>
+  <val> 32.7294131231672 </val>
+</var>
+<var>
+  <name> PhCells.SID </name>
+  <val> 41.6090443066687 </val>
+</var>
+<var>
+  <name> PhCells.H+ </name>
+  <val> 55.6865711097323 </val>
+</var>
+<var>
+  <name> PhUrine.pH </name>
+  <val> 5.27048428179073 </val>
+</var>
+<var>
+  <name> PhUrine.SID </name>
+  <val> 8.15562436633644 </val>
+</var>
+<var>
+  <name> PhUrine.H+ </name>
+  <val> 5364.33285958368 </val>
+</var>
+<var>
+  <name> BloodPhValues.ArtysPh </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> BloodPhValues.Artys[H+] </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> BloodPhValues.VeinsPh </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> BloodPhValues.Veins[H+] </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> CO2Tools.MolsToLiters </name>
+  <val> 22.4 </val>
+</var>
+<var>
+  <name> CO2Tools.LitersToMols </name>
+  <val> 0.0446 </val>
+</var>
+<var>
+  <name> CO2Tools.MMOL_TO_ML </name>
+  <val> 22.4 </val>
+</var>
+<var>
+  <name> CO2Tools.ML_TO_MMOL </name>
+  <val> 0.0446 </val>
+</var>
+<var>
+  <name> CO2Tools.d[HCO3]/dpCO2 </name>
+  <val> 0.00036 </val>
+</var>
+<var>
+  <name> CO2_pCO2_To_[HCO3].pCO2 </name>
+  <val> 460.017969451928 </val>
+</var>
+<var>
+  <name> CO2_pCO2_To_[HCO3].[HCO3] </name>
+  <val> 0.0248 </val>
+</var>
+<var>
+  <name> CO2_pCO2_To_[HCO3].p50 </name>
+  <val> 32 </val>
+</var>
+<var>
+  <name> CO2_pCO2_To_[HCO3].K </name>
+  <val> 0.02652515 </val>
+</var>
+<var>
+  <name> CO2_[HCO3]_To_pCO2.pCO2 </name>
+  <val> 32.7294131231672 </val>
+</var>
+<var>
+  <name> CO2_[HCO3]_To_pCO2.[HCO3] </name>
+  <val> 0.0159896103896104 </val>
+</var>
+<var>
+  <name> CO2_[HCO3]_To_pCO2.p50 </name>
+  <val> 32 </val>
+</var>
+<var>
+  <name> CO2_[HCO3]_To_pCO2.K </name>
+  <val> 0.0316228736730682 </val>
+</var>
+<var>
+  <name> CO2_[HCO3]_To_pCO2.PCO2_LARGE </name>
+  <val> 1000 </val>
+</var>
+<var>
+  <name> CO2Blood.pCO2 </name>
+  <val> 460.017969451928 </val>
+</var>
+<var>
+  <name> CO2Blood.[SID] </name>
+  <val> 0.024335 </val>
+</var>
+<var>
+  <name> CO2Blood.[HCO3] </name>
+  <val> 0.0248 </val>
+</var>
+<var>
+  <name> CO2Blood.K </name>
+  <val> 0.02652515 </val>
+</var>
+<var>
+  <name> CO2Blood.pCO2-Inverse </name>
+  <val> 460.017969451928 </val>
+</var>
+<var>
+  <name> CO2Blood.[SID]-Inverse </name>
+  <val> 0.024335 </val>
+</var>
+<var>
+  <name> CO2Blood.[HCO3]-Inverse </name>
+  <val> 0.0248 </val>
+</var>
+<var>
+  <name> CO2Blood.K-Inverse </name>
+  <val> 0.02652515 </val>
+</var>
+<var>
+  <name> CO2Blood.k </name>
+  <val> 1.09 </val>
+</var>
+<var>
+  <name> CO2Blood.p50 </name>
+  <val> 32 </val>
+</var>
+<var>
+  <name> CO2Total.Change(mL/Min) </name>
+  <val> -34.4170237331831 </val>
+</var>
+<var>
+  <name> CO2Total.Change(mMol/Min) </name>
+  <val> -1.53468941430116 </val>
+</var>
+<var>
+  <name> CO2Total.Gain(mL/Min) </name>
+  <val> 7.22969797224308 </val>
+</var>
+<var>
+  <name> CO2Total.Gain(mMol/Min) </name>
+  <val> 0.322754373760852 </val>
+</var>
+<var>
+  <name> CO2Total.Loss(mL/Min) </name>
+  <val> 41.6467217054262 </val>
+</var>
+<var>
+  <name> CO2Total.Loss(mMol/Min) </name>
+  <val> 1.85744378806201 </val>
+</var>
+<var>
+  <name> CO2Total.Inflow(mL/Min) </name>
+  <val> 7.22969797224308 </val>
+</var>
+<var>
+  <name> CO2Total.Inflow(mMol/Min) </name>
+  <val> 0.322754373760852 </val>
+</var>
+<var>
+  <name> CO2Total.Outflow(mL/Min) </name>
+  <val> 41.6467217054262 </val>
+</var>
+<var>
+  <name> CO2Total.Outflow(mMol/Min) </name>
+  <val> 1.85744378806201 </val>
+</var>
+<var>
+  <name> CO2Total.Urineflow(mL/Min) </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> CO2Total.Urineflow(mMol/Min) </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> CO2Artys.[HCO3(mEq/L)] </name>
+  <val> 23.4 </val>
+</var>
+<var>
+  <name> CO2Artys.Pressure </name>
+  <val> 239.604498984048 </val>
+</var>
+<var>
+  <name> CO2Artys.Mass </name>
+  <val> 3.51 </val>
+</var>
+<var>
+  <name> CO2Artys.[HCO3] </name>
+  <val> 0.0234 </val>
+</var>
+<var>
+  <name> CO2Artys.[HCO3-SteadyState] </name>
+  <val> 0.0234 </val>
+</var>
+<var>
+  <name> CO2Artys.K </name>
+  <val> 5 </val>
+</var>
+<var>
+  <name> CO2Artys.DxMax </name>
+  <val> 0.2 </val>
+</var>
+<var>
+  <name> CO2Artys.Change </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> CO2Veins.[HCO3(mEq/L)] </name>
+  <val> 24.8 </val>
+</var>
+<var>
+  <name> CO2Veins.Pressure </name>
+  <val> 460.017969451928 </val>
+</var>
+<var>
+  <name> CO2Veins.Mass </name>
+  <val> 2.48 </val>
+</var>
+<var>
+  <name> CO2Veins.[HCO3] </name>
+  <val> 0.0248 </val>
+</var>
+<var>
+  <name> CO2Veins.[HCO3-SteadyState] </name>
+  <val> 0.0239164069980174 </val>
+</var>
+<var>
+  <name> CO2Veins.K </name>
+  <val> 5 </val>
+</var>
+<var>
+  <name> CO2Veins.DxMax </name>
+  <val> 0.2 </val>
+</var>
+<var>
+  <name> CO2Veins.Change </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> Lung_CO2.Gain </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> Lung_CO2.Loss </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> Lung_CO2.[CO2] </name>
+  <val> 0.2 </val>
+</var>
+<var>
+  <name> Lung_CO2.pCO2 </name>
+  <val> 148.6 </val>
+</var>
+<var>
+  <name> Lung_CO2.[Capy] </name>
+  <val> 0.0218252341638981 </val>
+</var>
+<var>
+  <name> Lung_CO2.pCapy </name>
+  <val> 148.6 </val>
+</var>
+<var>
+  <name> Lung_CO2.Diffused </name>
+  <val> 41.6467217054262 </val>
+</var>
+<var>
+  <name> Lung_CO2.K </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> Lung_CO2.Mass </name>
+  <val> 100 </val>
+</var>
+<var>
+  <name> CO2Calculator.[HCO3] </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> CO2Calculator.pCO2 </name>
+  <val> 45 </val>
+</var>
+<var>
+  <name> CO2Calculator.p50 </name>
+  <val> 32 </val>
+</var>
+<var>
+  <name> CO2Calculator.k </name>
+  <val> 1.09 </val>
+</var>
+<var>
+  <name> CO2Calculator.[SID] </name>
+  <val> 0.04 </val>
+</var>
+<var>
+  <name> CO2Calculator.K </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> HgbProps.HILLCONSTANT </name>
+  <val> 2.3 </val>
+</var>
+<var>
+  <name> HgbProps.PO2SATURATED </name>
+  <val> 120 </val>
+</var>
+<var>
+  <name> HgbProps.O2SOLUBILITY </name>
+  <val> 3E-05 </val>
+</var>
+<var>
+  <name> HgbProps.TEMPK </name>
+  <val> 0.024 </val>
+</var>
+<var>
+  <name> HgbProps.PHK </name>
+  <val> -0.4 </val>
+</var>
+<var>
+  <name> HgbProps.PCO2K </name>
+  <val> 0.06 </val>
+</var>
+<var>
+  <name> HgbProps.COK </name>
+  <val> -0.0067 </val>
+</var>
+<var>
+  <name> HgbProps.TEMPNORM </name>
+  <val> 37 </val>
+</var>
+<var>
+  <name> HgbProps.PHNORM </name>
+  <val> 7.4 </val>
+</var>
+<var>
+  <name> HgbProps.CO2NORM </name>
+  <val> 40 </val>
+</var>
+<var>
+  <name> HgbProps.CONORM </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> HgbProps.pO2 </name>
+  <val> 5792.68404765166 </val>
+</var>
+<var>
+  <name> HgbProps.[O2] </name>
+  <val> 0.17018052142955 </val>
+</var>
+<var>
+  <name> HgbProps.pH </name>
+  <val> 7.3 </val>
+</var>
+<var>
+  <name> HgbProps.pCO2 </name>
+  <val> 40 </val>
+</var>
+<var>
+  <name> HgbProps.Temp </name>
+  <val> 37.1 </val>
+</var>
+<var>
+  <name> HgbProps.pHEffect </name>
+  <val> 1.09647819614319 </val>
+</var>
+<var>
+  <name> HgbProps.pCO2Effect </name>
+  <val> 1 </val>
+</var>
+<var>
+  <name> HgbProps.TempEffect </name>
+  <val> 1.00554150185604 </val>
+</var>
+<var>
+  <name> HgbProps.COEffect </name>
+  <val> 1 </val>
+</var>
+<var>
+  <name> HgbProps.TempSens </name>
+  <val> 1 </val>
+</var>
+<var>
+  <name> HgbProps.pHSens </name>
+  <val> 1 </val>
+</var>
+<var>
+  <name> HgbProps.pCO2Sens </name>
+  <val> 1 </val>
+</var>
+<var>
+  <name> HgbProps.COSens </name>
+  <val> 1 </val>
+</var>
+<var>
+  <name> HgbProps.Del </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> HgbProps.Log </name>
+  <val> 1.60205999132796 </val>
+</var>
+<var>
+  <name> HgbProps.P50Basic </name>
+  <val> 28 </val>
+</var>
+<var>
+  <name> HgbProps.P50 </name>
+  <val> 30.8715212988623 </val>
+</var>
+<var>
+  <name> HgbProps.ScaleForSat </name>
+  <val> 1.04404195675832 </val>
+</var>
+<var>
+  <name> HgbProps.Sat </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> HgbProps.S </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> HgbProps.An </name>
+  <val> 22.7056214937855 </val>
+</var>
+<var>
+  <name> HgbProps.A </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> HgbProps.K </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> HgbConc.[Total] </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> HgbConc.Clamp </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> HgbConc.[Level] </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> HgbConc.[Basic] </name>
+  <val> 0.125 </val>
+</var>
+<var>
+  <name> HgbConc.HctEffect </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> HgbConc.[Free] </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> HgbConc.[Carboxy] </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> HgbConc.CarboxyPercent </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> HgbConc.GasMaxContent </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> HgbConc.[O2Max] </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> HgbConc.NORMALHCT </name>
+  <val> 0.4 </val>
+</var>
+<var>
+  <name> HgbConc.O2MAX(ML/G) </name>
+  <val> 1.34 </val>
+</var>
+<var>
+  <name> HgbConc.[O2] </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> HgbConc.Sat(%) </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> HgbTissue.pO2 </name>
+  <val> 5792.68404765166 </val>
+</var>
+<var>
+  <name> HgbTissue.[O2] </name>
+  <val> 0.17018052142955 </val>
+</var>
+<var>
+  <name> HgbTissue.pH </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> HgbTissue.pCO2 </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> HgbTissue.P50 </name>
+  <val> 30.8715212988623 </val>
+</var>
+<var>
+  <name> HgbTissue.ScaleForSat </name>
+  <val> 1.04404195675832 </val>
+</var>
+<var>
+  <name> HgbTissue.pHEffect </name>
+  <val> 1.09647819614319 </val>
+</var>
+<var>
+  <name> HgbTissue.pCO2Effect </name>
+  <val> 1 </val>
+</var>
+<var>
+  <name> HgbTissue.TempEffect </name>
+  <val> 1.00554150185604 </val>
+</var>
+<var>
+  <name> HgbTissue.COEffect </name>
+  <val> 1 </val>
+</var>
+<var>
+  <name> HgbCalculator.HILLCONSTANT </name>
+  <val> 2.3 </val>
+</var>
+<var>
+  <name> HgbCalculator.PO2SATURATED </name>
+  <val> 120 </val>
+</var>
+<var>
+  <name> HgbCalculator.O2SOLUBILITY </name>
+  <val> 3E-05 </val>
+</var>
+<var>
+  <name> HgbCalculator.TEMPK </name>
+  <val> 0.024 </val>
+</var>
+<var>
+  <name> HgbCalculator.PHK </name>
+  <val> -0.4 </val>
+</var>
+<var>
+  <name> HgbCalculator.PCO2K </name>
+  <val> 0.06 </val>
+</var>
+<var>
+  <name> HgbCalculator.COK </name>
+  <val> -0.0067 </val>
+</var>
+<var>
+  <name> HgbCalculator.TEMPNORM </name>
+  <val> 37 </val>
+</var>
+<var>
+  <name> HgbCalculator.PHNORM </name>
+  <val> 7.4 </val>
+</var>
+<var>
+  <name> HgbCalculator.CO2NORM </name>
+  <val> 40 </val>
+</var>
+<var>
+  <name> HgbCalculator.pO2 </name>
+  <val> 40 </val>
+</var>
+<var>
+  <name> HgbCalculator.[O2] </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> HgbCalculator.pH </name>
+  <val> 7.4 </val>
+</var>
+<var>
+  <name> HgbCalculator.pCO2 </name>
+  <val> 45 </val>
+</var>
+<var>
+  <name> HgbCalculator.Temp </name>
+  <val> 37 </val>
+</var>
+<var>
+  <name> HgbCalculator.CO(%) </name>
+  <val> 0.1 </val>
+</var>
+<var>
+  <name> HgbCalculator.pHEffect </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> HgbCalculator.pCO2Effect </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> HgbCalculator.TempEffect </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> HgbCalculator.COEffect </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> HgbCalculator.Del </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> HgbCalculator.Log </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> HgbCalculator.P50Basic </name>
+  <val> 26.6 </val>
+</var>
+<var>
+  <name> HgbCalculator.P50 </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> HgbCalculator.ScaleForSat </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> HgbCalculator.Sat </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> HgbCalculator.Sat(%) </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> HgbCalculator.[Hgb] </name>
+  <val> 0.15 </val>
+</var>
+<var>
+  <name> HgbCalculator.[O2Max] </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> HgbCalculator.S </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> HgbCalculator.An </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> HgbCalculator.A </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> HgbCalculator.K </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> InsulinPool.[Insulin] </name>
+  <val> 20 </val>
+</var>
+<var>
+  <name> InsulinPool.[Insulin(pMol/L)] </name>
+  <val> 144.82 </val>
+</var>
+<var>
+  <name> InsulinPool.Gain </name>
+  <val> 12.501182 </val>
+</var>
+<var>
+  <name> InsulinPool.Loss </name>
+  <val> 0.237442524982592 </val>
+</var>
+<var>
+  <name> InsulinPool.Target[Insulin] </name>
+  <val> 20 </val>
+</var>
+<var>
+  <name> InsulinPool.InitialMass </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> InsulinPool.Mass </name>
+  <val> 1235.2 </val>
+</var>
+<var>
+  <name> InsulinPool.Change </name>
+  <val> 12.2637394750174 </val>
+</var>
+<var>
+  <name> InsulinClearance.Rate </name>
+  <val> 0.237442524982592 </val>
+</var>
+<var>
+  <name> InsulinClearance.RenalDegradation </name>
+  <val> 0.199504524982592 </val>
+</var>
+<var>
+  <name> InsulinClearance.K </name>
+  <val> 0.00031 </val>
+</var>
+<var>
+  <name> InsulinReceptors-General.Total </name>
+  <val> 43 </val>
+</var>
+<var>
+  <name> InsulinReceptors-General.BoundFraction </name>
+  <val> 0.0697674418604651 </val>
+</var>
+<var>
+  <name> InsulinReceptors-General.BoundFraction(%) </name>
+  <val> 6.97674418604651 </val>
+</var>
+<var>
+  <name> InsulinReceptors-General.Gain </name>
+  <val> 0.03912 </val>
+</var>
+<var>
+  <name> InsulinReceptors-General.Loss </name>
+  <val> 0.01776 </val>
+</var>
+<var>
+  <name> InsulinReceptors-General.Binding </name>
+  <val> 0.03912 </val>
+</var>
+<var>
+  <name> InsulinReceptors-General.Unbinding </name>
+  <val> 0.001182 </val>
+</var>
+<var>
+  <name> InsulinReceptors-General.NetBinding </name>
+  <val> 0.037938 </val>
+</var>
+<var>
+  <name> InsulinReceptors-General.Degradation </name>
+  <val> 0.016578 </val>
+</var>
+<var>
+  <name> InsulinReceptors-General.K1 </name>
+  <val> 4.89E-05 </val>
+</var>
+<var>
+  <name> InsulinReceptors-General.K2 </name>
+  <val> 0.000394 </val>
+</var>
+<var>
+  <name> InsulinReceptors-General.K3 </name>
+  <val> 0.005526 </val>
+</var>
+<var>
+  <name> InsulinReceptors-General.Bound </name>
+  <val> 3 </val>
+</var>
+<var>
+  <name> InsulinReceptors-General.Change </name>
+  <val> 0.02136 </val>
+</var>
+<var>
+  <name> InsulinReceptors-General.Free </name>
+  <val> 40 </val>
+</var>
+<var>
+  <name> InsulinReceptors-General.FChange </name>
+  <val> -0.02136 </val>
+</var>
+<var>
+  <name> InsulinTools.UU/ML_TO_PMOL/L </name>
+  <val> 7.241 </val>
+</var>
+<var>
+  <name> InsulinTools.PMOL/L_TO_UU/ML </name>
+  <val> 0.1381 </val>
+</var>
+<var>
+  <name> RightReninSecretion.Rate </name>
+  <val> 45.4611233084471 </val>
+</var>
+<var>
+  <name> RightReninSecretion.TGFEffect </name>
+  <val> 1.04145364130028 </val>
+</var>
+<var>
+  <name> RightReninSecretion.SympsEffect </name>
+  <val> 0.608172836215357 </val>
+</var>
+<var>
+  <name> RightReninSecretion.Fraction </name>
+  <val> 0.00104508329444706 </val>
+</var>
+<var>
+  <name> RightReninSecretion.Base </name>
+  <val> 0.00165 </val>
+</var>
+<var>
+  <name> RightReninSecretion.BaseTarget </name>
+  <val> 0.00165 </val>
+</var>
+<var>
+  <name> RightReninSecretion.TGF_ATarget </name>
+  <val> 7.5 </val>
+</var>
+<var>
+  <name> RightReninSecretion.TGF_BTarget </name>
+  <val> 0.47 </val>
+</var>
+<var>
+  <name> RightReninSecretion.TGF_STarget </name>
+  <val> 0.278 </val>
+</var>
+<var>
+  <name> RightReninSecretion.TGF_mTarget </name>
+  <val> 2 </val>
+</var>
+<var>
+  <name> RightReninSecretion.Symps_ATarget </name>
+  <val> 4.56 </val>
+</var>
+<var>
+  <name> RightReninSecretion.Symps_BTarget </name>
+  <val> 0.56 </val>
+</var>
+<var>
+  <name> RightReninSecretion.Symps_mTarget </name>
+  <val> 3.26 </val>
+</var>
+<var>
+  <name> RightReninSecretion.Symps_STarget </name>
+  <val> 2.04 </val>
+</var>
+<var>
+  <name> RightReninSecretion.VenousConc </name>
+  <val> 0.0686656325482188 </val>
+</var>
+<var>
+  <name> RightReninSecretion.TGF_A </name>
+  <val> 7.5 </val>
+</var>
+<var>
+  <name> RightReninSecretion.dTGFA </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightReninSecretion.TGF_B </name>
+  <val> 0.47 </val>
+</var>
+<var>
+  <name> RightReninSecretion.dTGFB </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightReninSecretion.TGF_S </name>
+  <val> 0.278 </val>
+</var>
+<var>
+  <name> RightReninSecretion.dTGFS </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightReninSecretion.TGF_m </name>
+  <val> 2 </val>
+</var>
+<var>
+  <name> RightReninSecretion.dTGFm </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightReninSecretion.Symps_A </name>
+  <val> 4.57 </val>
+</var>
+<var>
+  <name> RightReninSecretion.dSympsA </name>
+  <val> -0.000500000000000034 </val>
+</var>
+<var>
+  <name> RightReninSecretion.Symps_B </name>
+  <val> 0.56 </val>
+</var>
+<var>
+  <name> RightReninSecretion.dSympsB </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightReninSecretion.Symps_m </name>
+  <val> 3.26 </val>
+</var>
+<var>
+  <name> RightReninSecretion.dSympsm </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightReninSecretion.Symps_S </name>
+  <val> 2.04 </val>
+</var>
+<var>
+  <name> RightReninSecretion.dSympsS </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightReninSynthesis.TGFEffect </name>
+  <val> 1.03584 </val>
+</var>
+<var>
+  <name> RightReninSynthesis.SympsEffect </name>
+  <val> 0.59910650469514 </val>
+</var>
+<var>
+  <name> RightReninSynthesis.Base </name>
+  <val> 72.5 </val>
+</var>
+<var>
+  <name> RightReninSynthesis.BaseTarget </name>
+  <val> 72.5 </val>
+</var>
+<var>
+  <name> RightReninSynthesis.TGF_ATarget </name>
+  <val> 19.7 </val>
+</var>
+<var>
+  <name> RightReninSynthesis.TGF_BTarget </name>
+  <val> 19.4 </val>
+</var>
+<var>
+  <name> RightReninSynthesis.TGF_STarget </name>
+  <val> 3 </val>
+</var>
+<var>
+  <name> RightReninSynthesis.Symps_ATarget </name>
+  <val> 4.57 </val>
+</var>
+<var>
+  <name> RightReninSynthesis.Symps_BTarget </name>
+  <val> 0.57 </val>
+</var>
+<var>
+  <name> RightReninSynthesis.Symps_mTarget </name>
+  <val> 4 </val>
+</var>
+<var>
+  <name> RightReninSynthesis.Symps_STarget </name>
+  <val> 1.79 </val>
+</var>
+<var>
+  <name> RightReninSynthesis.Tau </name>
+  <val> 60 </val>
+</var>
+<var>
+  <name> RightReninSynthesis.TGF_A </name>
+  <val> 19.7 </val>
+</var>
+<var>
+  <name> RightReninSynthesis.dTGFA </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightReninSynthesis.TGF_B </name>
+  <val> 19.4 </val>
+</var>
+<var>
+  <name> RightReninSynthesis.dTGFB </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightReninSynthesis.TGF_S </name>
+  <val> 3 </val>
+</var>
+<var>
+  <name> RightReninSynthesis.dTGFS </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightReninSynthesis.Symps_A </name>
+  <val> 4.57 </val>
+</var>
+<var>
+  <name> RightReninSynthesis.dSympsA </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightReninSynthesis.Symps_B </name>
+  <val> 0.57 </val>
+</var>
+<var>
+  <name> RightReninSynthesis.dSympsB </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightReninSynthesis.Symps_m </name>
+  <val> 4 </val>
+</var>
+<var>
+  <name> RightReninSynthesis.dSympsm </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightReninSynthesis.Symps_S </name>
+  <val> 1.79 </val>
+</var>
+<var>
+  <name> RightReninSynthesis.dSympsS </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> RightReninSynthesis.Rate </name>
+  <val> 72.5 </val>
+</var>
+<var>
+  <name> RightReninSynthesis.SteadyState </name>
+  <val> 44.9919399321975 </val>
+</var>
+<var>
+  <name> RightReninSynthesis.K </name>
+  <val> 0.0166666666666667 </val>
+</var>
+<var>
+  <name> RightReninSynthesis.Derv </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> RightReninFree.InFlux </name>
+  <val> 435 </val>
+</var>
+<var>
+  <name> RightReninFree.OutFlux </name>
+  <val> 435 </val>
+</var>
+<var>
+  <name> RightReninFree.OutFluxK </name>
+  <val> 0.01 </val>
+</var>
+<var>
+  <name> RightReninFree.Gain </name>
+  <val> 507.5 </val>
+</var>
+<var>
+  <name> RightReninFree.Loss </name>
+  <val> 480.461123308447 </val>
+</var>
+<var>
+  <name> RightReninFree.FreeBase </name>
+  <val> 43500 </val>
+</var>
+<var>
+  <name> RightReninFree.InitialMass </name>
+  <val> 43500 </val>
+</var>
+<var>
+  <name> RightReninFree.Mass </name>
+  <val> 43500 </val>
+</var>
+<var>
+  <name> RightReninFree.Change </name>
+  <val> 27.0388766915529 </val>
+</var>
+<var>
+  <name> RightReninGranules.InFlux </name>
+  <val> 435 </val>
+</var>
+<var>
+  <name> RightReninGranules.OutFlux </name>
+  <val> 435 </val>
+</var>
+<var>
+  <name> RightReninGranules.OutFluxK </name>
+  <val> 0.001 </val>
+</var>
+<var>
+  <name> RightReninGranules.Gain </name>
+  <val> 435 </val>
+</var>
+<var>
+  <name> RightReninGranules.Loss </name>
+  <val> 435 </val>
+</var>
+<var>
+  <name> RightReninGranules.InitialMass </name>
+  <val> 435000 </val>
+</var>
+<var>
+  <name> RightReninGranules.GranuleBase </name>
+  <val> 435000 </val>
+</var>
+<var>
+  <name> RightReninGranules.Mass </name>
+  <val> 435000 </val>
+</var>
+<var>
+  <name> RightReninGranules.Change </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> External.[Na+] </name>
+  <val> 143 </val>
+</var>
+<var>
+  <name> External.[K+(mEq/L)] </name>
+  <val> 5.34 </val>
+</var>
+<var>
+  <name> External.[Ca(mG/dL)] </name>
+  <val> 2.5 </val>
+</var>
+<var>
+  <name> External.[PO4--] </name>
+  <val> 0.171 </val>
+</var>
+<var>
+  <name> External.[SO4--] </name>
+  <val> 0.28 </val>
+</var>
+<var>
+  <name> External.[Creatinine] </name>
+  <val> 0.0082 </val>
+</var>
+<var>
+  <name> External.[Cl-] </name>
+  <val> 123 </val>
+</var>
+<var>
+  <name> External.[HCO3] </name>
+  <val> 25 </val>
+</var>
+<var>
+  <name> External.[Urea] </name>
+  <val> 0.332 </val>
+</var>
+<var>
+  <name> External.[Pro] </name>
+  <val> 6 </val>
+</var>
+<var>
+  <name> External.[Glucose] </name>
+  <val> 1.1 </val>
+</var>
+<var>
+  <name> External.[FA] </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> External.[Lac-] </name>
+  <val> 1 </val>
+</var>
+<var>
+  <name> External.[KA] </name>
+  <val> 0.005 </val>
+</var>
+<var>
+  <name> External.[O2] </name>
+  <val> 0.221 </val>
+</var>
+<var>
+  <name> External.VpCO2 </name>
+  <val> 40 </val>
+</var>
+<var>
+  <name> External.Pressure </name>
+  <val> 80 </val>
+</var>
+<var>
+  <name> External.FlowRate </name>
+  <val> 625 </val>
+</var>
+<var>
+  <name> External.TempC </name>
+  <val> 37.1 </val>
+</var>
+<var>
+  <name> External.SystemVolume </name>
+  <val> 250 </val>
+</var>
+<var>
+  <name> External.Hct </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> External.FalseHct </name>
+  <val> 0.45 </val>
+</var>
+<var>
+  <name> External.COP </name>
+  <val> 28.25506656 </val>
+</var>
+<var>
+  <name> External.Cations </name>
+  <val> 148.34 </val>
+</var>
+<var>
+  <name> External.Anions </name>
+  <val> 148.34 </val>
+</var>
+<var>
+  <name> External.StrongAnions </name>
+  <val> 124.005 </val>
+</var>
+<var>
+  <name> External.WeakAnions </name>
+  <val> 24.335 </val>
+</var>
+<var>
+  <name> External.Protein </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> External.AnionsLessProtein </name>
+  <val> Unknown </val>
+</var>
+<var>
+  <name> External.[SID] </name>
+  <val> 0.024335 </val>
+</var>
+<var>
+  <name> External.[SID(mEq/L)] </name>
+  <val> 24.335 </val>
+</var>
+<var>
+  <name> External.ArtysPh </name>
+  <val> 7.4 </val>
+</var>
+<var>
+  <name> External.VeinsPh </name>
+  <val> 7.3 </val>
+</var>
+<var>
+  <name> External.[Insulin] </name>
+  <val> 20 </val>
+</var>
+<var>
+  <name> External.[ANP] </name>
+  <val> 1 </val>
+</var>
+<var>
+  <name> External.[A2] </name>
+  <val> 1 </val>
+</var>
+<var>
+  <name> External.[ADH] </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> External.[PTH] </name>
+  <val> 1 </val>
+</var>
+<var>
+  <name> External.[Aldo] </name>
+  <val> 1 </val>
+</var>
+<var>
+  <name> External.A2Log10Conc </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> External.ANPLog10Conc </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> External.ViscosityEffect </name>
+  <val> 0.980702006416704 </val>
+</var>
+<var>
+  <name> External.NA </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> External.InitialKidneyMass </name>
+  <val> 190 </val>
+</var>
+<var>
+  <name> External.Epi </name>
+  <val> 0.22 </val>
+</var>
+<var>
+  <name> External.NE </name>
+  <val> 1.43 </val>
+</var>
+<var>
+  <name> External.Isoproteronol </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> External.Propranolol </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> External.Desglymidodrine </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> External.Phenylephrine </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> External.Furosemide </name>
+  <val> 0 </val>
+</var>
+<var>
+  <name> External.Thiazide </name>
+  <val> 0 </val>
+</var>
+</ics>
