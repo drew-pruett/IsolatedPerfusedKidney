@@ -59,7 +59,7 @@
   <call> RightKidney-Ph.CalcPh </call>
 
   <call> RightKidney-Function.Calc</call>
-  <call> Renin.CalcConc </call>
+
 
   <call> RightKidney-ArcuateArtery.Calc </call>
   <call> RightKidney-AfferentArtery.Calc </call>

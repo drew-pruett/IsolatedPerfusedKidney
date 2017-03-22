@@ -11,15 +11,6 @@ By : University Of Mississippi Medical Center
 
 <?include RightReninSecretion.DES ?>
 <?include RightReninSynthesis.DES ?>
-
-<!--
-<?include ReninPool.DES ?>
-<?include ReninClearance.DES ?>
-<?include A2Pool.DES ?>
-<?include A2Pump.DES ?>
--->
-
-
 <?include RightReninFree.DES ?>
 <?include RightReninGranules.DES ?>
 
@@ -31,14 +22,6 @@ By : University Of Mississippi Medical Center
   <call> RightReninSynthesis.Parms </call>
 </block>
 
-<block><name> CalcConc </name>
-
-<!--
-  <call> ReninPool.CalcConc </call>
-  <call> A2Pool.CalcConc </call>
--->
-</block>
-
 <block><name> Dervs </name>
   <call> RightReninFree.OutFlux </call>
   <call> RightReninGranules.OutFlux </call>
@@ -46,10 +29,6 @@ By : University Of Mississippi Medical Center
   <call> RightReninSynthesis.Dervs </call>
   <call> RightReninFree.Dervs </call>
   <call> RightReninGranules.Dervs </call>
-
-<!--
-  <call> ReninClearance.Dervs </call>
--->
 
 </block>
 

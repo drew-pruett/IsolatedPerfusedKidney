@@ -1,13 +1,4 @@
-<script>
-
-<launch>
-  <solver> Model Solver.exe </solver>
-  <model> HumMod.DES </model>
-</launch>
-
 <restart/>
-
-<?include misumi-roster.Script ?>
 
 <setvalue>
   <var> External.Pressure </var>

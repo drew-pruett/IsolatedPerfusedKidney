@@ -1,3 +1,4 @@
+<restart/>
 
 <setvalue>
   <var> External.Hct </var>
@@ -53,4 +54,3 @@
 
 
 <dumppoint><filename> Solutions\Besarab75\25.csv </filename><append/></dumppoint>
-
