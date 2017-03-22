@@ -1,0 +1,18 @@
+HumMod / Tree DES
+
+Created : 2004-10-04
+Revised : 2014-01-16
+Author : Tom Coleman
+Copyright : 2008-2014
+By : University of Mississippi Medical Center
+
+<?path Display\Tree\ ?>
+
+<tree>
+
+<?include Organs\Organs.DES ?>
+<?include Diagnosis\Chart.DES ?>
+
+</tree>
+
+End

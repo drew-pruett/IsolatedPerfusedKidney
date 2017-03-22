@@ -1,0 +1,133 @@
+
+
+<structure><name> External </name>
+
+<variables>
+
+<parm><name> [Na+] </name><val> 143 </val></parm>
+<parm><name> [K+(mEq/L)] </name><val> 5.34 </val></parm>
+<parm><name> [Ca(mG/dL)]  </name><val> 2.5 </val></parm>
+<parm><name> [PO4--] </name><val> 0.171 </val></parm>
+<parm><name> [SO4--] </name><val> 0.28 </val></parm>
+<parm><name> [Creatinine] </name><val> 0.0082 </val></parm>
+<parm><name> [Cl-] </name><val> 123 </val></parm>
+<parm><name> [HCO3] </name><val> 25 </val></parm>
+<parm><name> [Urea] </name><val> 0.332 </val></parm>
+<parm><name> [Pro] </name><val> 6 </val></parm>
+
+<parm><name> [Glucose] </name><val> 1.1 </val></parm>
+<parm><name> [FA] </name><val> 0 </val></parm>
+<parm><name> [Lac-] </name><val> 1.00 </val></parm>
+<parm><name> [KA] </name><val> 0.005 </val></parm>
+
+<parm><name> [O2] </name><val> 0.221 </val></parm>
+<parm><name> VpCO2 </name><val> 40 </val></parm>
+
+<parm><name> Pressure </name><val> 80 </val></parm>
+<parm><name> FlowRate </name><val> 625 </val></parm>
+<parm><name> TempC </name><val> 37.1 </val></parm>
+<parm><name> SystemVolume </name><val> 250 </val></parm>
+<parm><name> Hct </name><val> 0 </val></parm>
+<parm><name> FalseHct </name><val> .45 </val></parm> <!-- e.g. viscosity from dextran-->
+<var><name> COP </name></var>
+
+<var><name> Cations </name></var>
+<var><name> Anions </name></var>
+<var><name> StrongAnions </name></var>
+<var><name> WeakAnions </name></var>
+<var><name> Protein </name></var>
+<var><name> AnionsLessProtein </name></var>
+<var><name> [SID] </name></var>
+<var><name> [SID(mEq/L)] </name></var>
+<parm><name> ArtysPh </name><val> 7.4 </val></parm>
+<parm><name> VeinsPh </name><val> 7.3 </val></parm>
+
+<parm><name> [Insulin] </name><val> 20 </val></parm>
+<parm><name> [ANP] </name><val> 1 </val></parm>
+<parm><name> [A2] </name><val> 1 </val></parm>
+<parm><name> [ADH] </name><val> 0 </val></parm>
+<parm><name> [PTH] </name><val> 1 </val></parm>
+<parm><name> [Aldo] </name><val> 1 </val></parm>
+<var><name> A2Log10Conc </name></var>
+<var><name> ANPLog10Conc </name></var>
+
+<var><name> ViscosityEffect </name></var>
+<parm><name> NA </name><val> 0 </val></parm>
+<parm><name> InitialKidneyMass </name><val> 190 </val></parm>
+
+<parm><name> Epi </name><val> 0.22 </val></parm><!-- nMol/L-->
+<parm><name> NE </name><val> 1.43 </val></parm><!-- nMol/L-->
+<parm><name> Isoproteronol </name><val> 0 </val></parm>
+<parm><name> Propranolol </name><val> 0 </val></parm>
+<parm><name> Desglymidodrine </name><val> 0 </val></parm>
+<parm><name> Phenylephrine </name><val> 0 </val></parm>
+<parm><name> Furosemide </name><val> 0 </val></parm>
+<parm><name> Thiazide </name><val> 0 </val></parm>
+
+</variables>
+
+
+<functions>
+
+<curve>
+  <name> HctOnVisc </name>
+  <point><x> 0.00 </x><y> 0.5 </y><slope>  0.8 </slope></point>
+  <point><x> 0.44 </x><y> 1.0 </y><slope>  2.0 </slope></point>1 3
+  <point><x> 0.60 </x><y> 1.5 </y><slope> 6.0 </slope></point>8   5  30
+</curve>
+
+</functions>
+
+<definitions>
+
+<block><name> Calc </name>
+
+
+<def><name> ViscosityEffect </name><val> 1 / HctOnVisc [ ( Hct + FalseHct ) ] </val></def>
+<def><name> COP </name><val> .21 * [Pro] * .00145 * 62.36 * 0.8 * 310 </val></def>
+
+<def>
+  <name> Cations </name>
+  <val> [Na+] + [K+(mEq/L)] </val>
+</def>
+
+<def>
+  <name> Anions </name>
+  <val> Cations </val>
+</def>
+
+<def>
+  <name> StrongAnions </name>
+  <val>
+      [Cl-]
+    + [Lac-]
+    + [KA]
+  </val>
+</def>
+
+<def>
+  <name> [SID(mEq/L)] </name>
+  <val> Cations - StrongAnions </val>
+</def>
+
+<def>
+  <name> [SID] </name>
+  <val> 0.001 * [SID(mEq/L)] </val>
+</def>
+
+<def>
+  <name> WeakAnions </name>
+  <val> Anions - StrongAnions </val>
+</def>
+
+<def><name> A2Log10Conc </name><val> LOG10 [A2] </val></def>
+
+<def><name> ANPLog10Conc </name><val> LOG10 [ANP] </val></def>
+</block>
+
+
+
+</definitions>
+</structure>
+
+End

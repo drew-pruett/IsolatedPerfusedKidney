@@ -1,0 +1,215 @@
+<restart/>
+<setvalue>
+  <var> External.Hct </var>
+  <val> 0 </val>
+</setvalue>
+
+<setvalue>
+  <var> External.FalseHct </var>
+  <val> 0 </val>
+</setvalue>
+
+<setvalue>
+  <var> External.Pressure </var>
+  <val> 90 </val>
+</setvalue>
+
+<setvalue>
+  <var> External.[HCO3] </var>
+  <val> 0 </val>
+</setvalue>
+
+<setvalue>
+  <var> External.[Na+] </var>
+  <val> 140 </val>
+</setvalue>
+
+<setvalue>
+  <var> External.[K+] </var>
+  <val> 5 </val>
+</setvalue>
+
+<setvalue>
+  <var> External.[Cl-] </var>
+  <val> 120 </val>
+</setvalue>
+
+<setvalue>
+  <var> External.[Pro] </var>
+  <val> 6.7 </val>
+</setvalue>
+
+<gofor>
+	<solutionint> 30.0 </solutionint>
+	<displayint> 30.0 </displayint>
+</gofor>
+
+<dumppoint><filename> Solutions\Besarab77\NE5.csv </filename><append/></dumppoint>
+
+<setvalue>
+  <var> External.NE </var>
+  <val> 30 </val>
+</setvalue>
+
+<gofor>
+	<solutionint> 30.0 </solutionint>
+	<displayint> 30.0 </displayint>
+</gofor>
+
+<dumppoint><filename> Solutions\Besarab77\NE5.csv </filename><append/></dumppoint>
+
+<setvalue>
+  <var> External.[ADH] </var>
+  <val> 800 </val>
+</setvalue>
+
+<gofor>
+	<solutionint> 30.0 </solutionint>
+	<displayint> 30.0 </displayint>
+</gofor>
+
+<dumppoint><filename> Solutions\Besarab77\NE5.csv </filename><append/></dumppoint>
+<restart/>
+
+<setvalue>
+  <var> External.Hct </var>
+  <val> 0 </val>
+</setvalue>
+
+<setvalue>
+  <var> External.FalseHct </var>
+  <val> 0 </val>
+</setvalue>
+
+<setvalue>
+  <var> External.Pressure </var>
+  <val> 90 </val>
+</setvalue>
+
+<setvalue>
+  <var> External.[HCO3] </var>
+  <val> 0 </val>
+</setvalue>
+
+<setvalue>
+  <var> External.[Na+] </var>
+  <val> 140 </val>
+</setvalue>
+
+<setvalue>
+  <var> External.[K+] </var>
+  <val> 5 </val>
+</setvalue>
+
+<setvalue>
+  <var> External.[Cl-] </var>
+  <val> 120 </val>
+</setvalue>
+
+<setvalue>
+  <var> External.[Pro] </var>
+  <val> 6.7 </val>
+</setvalue>
+
+<gofor>
+	<solutionint> 30.0 </solutionint>
+	<displayint> 30.0 </displayint>
+</gofor>
+
+<dumppoint><filename> Solutions\Besarab77\NE25.csv </filename><append/></dumppoint>
+
+<setvalue>
+  <var> External.NE </var>
+  <val> 1500 </val>
+</setvalue>
+
+<gofor>
+	<solutionint> 30.0 </solutionint>
+	<displayint> 30.0 </displayint>
+</gofor>
+
+<dumppoint><filename> Solutions\Besarab77\NE25.csv </filename><append/></dumppoint>
+
+<setvalue>
+  <var> External.[ADH] </var>
+  <val> 800 </val>
+</setvalue>
+
+<gofor>
+	<solutionint> 30.0 </solutionint>
+	<displayint> 30.0 </displayint>
+</gofor>
+
+<dumppoint><filename> Solutions\Besarab77\NE25.csv </filename><append/></dumppoint>
+<restart/>
+
+<setvalue>
+  <var> External.Hct </var>
+  <val> 0 </val>
+</setvalue>
+
+<setvalue>
+  <var> External.FalseHct </var>
+  <val> 0 </val>
+</setvalue>
+
+<setvalue>
+  <var> External.Pressure </var>
+  <val> 90 </val>
+</setvalue>
+
+<setvalue>
+  <var> External.[HCO3] </var>
+  <val> 0 </val>
+</setvalue>
+
+<setvalue>
+  <var> External.[Na+] </var>
+  <val> 140 </val>
+</setvalue>
+
+<setvalue>
+  <var> External.[K+] </var>
+  <val> 5 </val>
+</setvalue>
+
+<setvalue>
+  <var> External.[Cl-] </var>
+  <val> 120 </val>
+</setvalue>
+
+<setvalue>
+  <var> External.[Pro] </var>
+  <val> 6.7 </val>
+</setvalue>
+
+<gofor>
+	<solutionint> 30.0 </solutionint>
+	<displayint> 30.0 </displayint>
+</gofor>
+
+<dumppoint><filename> Solutions\Besarab77\Epi5.csv </filename><append/></dumppoint>
+
+<setvalue>
+  <var> External.Epi </var>
+  <val> 27.5 </val>
+</setvalue>
+
+<gofor>
+	<solutionint> 30.0 </solutionint>
+	<displayint> 30.0 </displayint>
+</gofor>
+
+<dumppoint><filename> Solutions\Besarab77\Epi5.csv </filename><append/></dumppoint>
+
+<setvalue>
+  <var> External.[ADH] </var>
+  <val> 800 </val>
+</setvalue>
+
+<gofor>
+	<solutionint> 30.0 </solutionint>
+	<displayint> 30.0 </displayint>
+</gofor>
+
+<dumppoint><filename> Solutions\Besarab77\Epi5.csv </filename><append/></dumppoint>

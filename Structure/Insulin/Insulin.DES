@@ -1,0 +1,39 @@
+HumMod / Insulin
+
+Created : 07-Apr-05
+Revised : 2012-11-03
+Author : Tom Coleman
+Copyright : 2006-2012
+By : University Of Mississippi Medical Center
+
+<?path Structure\Insulin\ ?>
+
+<?include InsulinPool.DES ?>
+<?include InsulinClearance.DES ?>
+<?include InsulinReceptors-General.DES ?>
+<?include InsulinTools.DES ?>
+
+<structure><name> Insulin </name>
+
+<definitions>
+
+
+<block><name> CalcConc </name>
+
+  <call> InsulinPool.CalcConc </call>
+  <call> InsulinReceptors-General.Calc </call>
+
+</block>
+
+<block><name> LateDervs </name>
+
+  <call> InsulinReceptors-General.Dervs </call>
+  <call> InsulinClearance.Dervs </call>
+  <call> InsulinPool.Dervs </call>
+
+</block>
+
+</definitions>
+</structure>
+
+End

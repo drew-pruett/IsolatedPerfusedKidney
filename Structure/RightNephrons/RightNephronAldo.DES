@@ -1,0 +1,55 @@
+HumMod / RightNephronAldo
+
+Created : 10-Apr-05
+Revised : 2013-03-17
+Author : Tom Coleman
+Copyright : 2006-2013
+By : University Of Mississippi Medical Center
+
+<structure><name> RightNephronAldo </name>
+
+<variables>
+
+<var><name> [Aldo(pMol/L)-Bound] </name></var>
+<var><name> [Aldo(nG/dL)-Bound] </name></var>
+
+
+<var><name> [Aldo(pMol/L)-Nucleus] </name></var>
+<var><name> [Aldo(nG/dL)-Nucleus] </name></var>
+
+<constant><name> PMOL_L_TO_NG_DL </name><val> 0.0368 </val></constant>
+
+</variables>
+
+
+<definitions>
+
+
+<block><name> Calc </name>
+
+<def>
+  <name> [Aldo(pMol/L)-Nucleus] </name>
+  <val> External.[Aldo] </val>
+</def>
+
+<def>
+  <name> [Aldo(nG/dL)-Nucleus] </name>
+  <val> External.[Aldo] * PMOL_L_TO_NG_DL </val>
+</def>
+
+<def>
+  <name> [Aldo(pMol/L)-Bound] </name>
+  <val> MineralocorticoidReceptor.[Aldo(pMol/L)-Bound] </val>
+</def>
+
+<def>
+  <name> [Aldo(nG/dL)-Bound] </name>
+  <val> MineralocorticoidReceptor.[Aldo(pMol/L)-Bound] * PMOL_L_TO_NG_DL </val>
+</def>
+
+</block>
+
+</definitions>
+</structure>
+
+End

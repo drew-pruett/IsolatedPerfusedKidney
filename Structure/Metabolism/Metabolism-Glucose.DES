@@ -1,0 +1,38 @@
+HumMod / Metabolism-Glucose
+
+Created : 01-Aug-08
+Last Modified : 26-Jan-10
+Author : Tom Coleman
+Copyright : 2008-2010
+By : University of Mississippi Medical Center
+Schema : DES V1.0
+
+<structure><name> Metabolism-Glucose </name>
+
+<variables>
+
+<var><name> TotalBurn </name></var>
+<var><name> GlucoseBurn </name></var>
+<var><name> TotalUptake </name></var>
+<var><name> GlucoseUptake </name></var>
+
+</variables>
+
+<definitions>
+<block><name> Calc </name>
+
+<def><name> GlucoseBurn </name>
+  <val>
+     RightKidney-Fuel.TotalGlucoseUsed(mG/Min)
+  </val>
+</def>
+
+<def><name> TotalBurn </name><val> GlucoseBurn  </val></def>
+<def><name> GlucoseUptake </name><val> GlucoseBurn </val></def>
+<def><name> TotalUptake </name><val> GlucoseUptake </val></def>
+
+</block>
+</definitions>
+</structure>
+
+End

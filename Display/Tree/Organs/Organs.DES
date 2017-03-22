@@ -1,0 +1,23 @@
+HumMod / Organs
+
+Created : 2011-07-26
+Revised : 2013-02-04
+Author : Tom Coleman
+Copyright : 2011-2012
+By : University of Mississippi Medical Center
+
+<?path Display\Tree\Organs\ ?>
+
+<branch>
+  <name> ORGANS </name>
+  <label> Organs </label>
+  <parent> MAINMENU </parent>
+</branch>
+
+<?include Kidney.DES ?>
+<?include KidneyNephrons.DES ?> 
+<?include KidneyExcretion.DES ?>
+<?include KidneyMetabolism.DES ?>
+
+
+End

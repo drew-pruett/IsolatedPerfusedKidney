@@ -1,0 +1,135 @@
+<script>
+
+<launch>
+  <solver> Model Solver.exe </solver>
+  <model> HumMod.DES </model>
+</launch>
+
+<restart/>
+
+<?include misumi-roster.Script ?>
+
+<setvalue>
+  <var> External.Pressure </var>
+  <val> 80 </val>
+</setvalue>
+
+<gofor>
+	<solutionint> 30.0 </solutionint>
+	<displayint> 30.0 </displayint>
+</gofor>
+
+<dumpsolution><filename> Solutions\Misumi\Normal.csv </filename><append/></dumppoint>
+<gofor>
+	<solutionint> 60.0 </solutionint>
+	<displayint> 60.0 </displayint>
+</gofor>
+
+<dumpsolution><filename> Solutions\Misumi\Normal.csv </filename><append/></dumppoint>
+<restart/>
+
+<setvalue>
+  <var> External.Pressure </var>
+  <val> 80 </val>
+</setvalue>
+
+<gofor>
+	<solutionint> 30.0 </solutionint>
+	<displayint> 30.0 </displayint>
+</gofor>
+
+<dumpsolution><filename> Solutions\Misumi\HighPP.csv </filename><append/></dumppoint>
+
+<setvalue>
+  <var> External.Pressure </var>
+  <val> 108 </val>
+</setvalue>
+
+<gofor>
+	<solutionint> 60.0 </solutionint>
+	<displayint> 60.0 </displayint>
+</gofor>
+
+<dumpsolution><filename> Solutions\Misumi\HighPP.csv </filename><append/></dumppoint>
+<restart/>
+
+<setvalue>
+  <var> External.Pressure </var>
+  <val> 80 </val>
+</setvalue>
+
+<gofor>
+	<solutionint> 30.0 </solutionint>
+	<displayint> 30.0 </displayint>
+</gofor>
+
+<dumpsolution><filename> Solutions\Misumi\LowPP.csv </filename><append/></dumppoint>
+
+<setvalue>
+  <var> External.Pressure </var>
+  <val> 60 </val>
+</setvalue>
+
+<gofor>
+	<solutionint> 60.0 </solutionint>
+	<displayint> 60.0 </displayint>
+</gofor>
+
+<dumpsolution><filename> Solutions\Misumi\LowPP.csv </filename><append/></dumppoint>
+<restart/>
+
+<setvalue>
+  <var> RightKidney.PumpSwitch </var>
+  <val> 1 </val>
+</setvalue>
+
+<setvalue>
+  <var> RightKidney.PumpSetting </var>
+  <val> 80 </val>
+</setvalue>
+
+<gofor>
+	<solutionint> 30.0 </solutionint>
+	<displayint> 30.0 </displayint>
+</gofor>
+
+<dumpsolution><filename> Solutions\Misumi\Furosemide.csv </filename><append/></dumppoint>
+
+<setvalue>
+  <var> Furosemide </var>
+  <val> 10 </val>
+</setvalue>
+
+<gofor>
+	<solutionint> 60.0 </solutionint>
+	<displayint> 60.0 </displayint>
+</gofor>
+
+<dumpsolution><filename> Solutions\Misumi\Furosemide.csv </filename><append/></dumppoint>
+<restart/>
+
+<setvalue>
+  <var> External.Pressure </var>
+  <val> 80 </val>
+</setvalue>
+
+<gofor>
+	<solutionint> 30.0 </solutionint>
+	<displayint> 30.0 </displayint>
+</gofor>
+
+<dumpsolution><filename> Solutions\Misumi\Isoproteronol.csv </filename><append/></dumppoint>
+
+<setvalue>
+  <var> BetaPool </var>
+  <val> 1.5 </val>
+</setvalue>
+
+<gofor>
+	<solutionint> 60.0 </solutionint>
+	<displayint> 60.0 </displayint>
+</gofor>
+
+<dumpsolution><filename> Solutions\Misumi\Isoproteronol.csv </filename><append/></dumppoint>
+<exit/>
+</script>

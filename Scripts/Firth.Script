@@ -1,0 +1,135 @@
+<script>
+
+<launch>
+  <solver> Model Solver.exe </solver>
+  <model> HumMod.DES </model>
+</launch>
+
+
+<!--
+recirculating unit: 120 mL
+6.7% bovine albumin +  5 mmol/L glucose
+gassed with 95/5 O2/CO2
+perfuse at 90 or 130 mmHg
+ANP 50, 200, 1000 pM/L
+alt
+10/100 uM furosemide
+-->
+
+<restart/>
+
+<setvalue>
+  <var> External.Pressure </var>
+  <val> 90 </val>
+</setvalue>
+
+<gofor>
+	<solutionint> 30.0 </solutionint>
+	<displayint> 30.0 </displayint>
+</gofor>
+
+
+<dumppoint><filename> Solutions\Firth\Base.csv </filename><append/></dumppoint>
+
+<setvalue>
+  <var> External.[ANP] </var>
+  <val> 50 </val>
+</setvalue>
+
+<gofor>
+	<solutionint> 30.0 </solutionint>
+	<displayint> 30.0 </displayint>
+</gofor>
+
+<dumppoint><filename> Solutions\Firth\ANP50.csv </filename><append/></dumppoint>
+
+<setvalue>
+  <var> External.[ANP] </var>
+  <val> 200 </val>
+</setvalue>
+
+<gofor>
+	<solutionint> 30.0 </solutionint>
+	<displayint> 30.0 </displayint>
+</gofor>
+
+<dumppoint><filename> Solutions\Firth\ANP200.csv </filename><append/></dumppoint>
+
+
+<setvalue>
+  <var> External.[ANP] </var>
+  <val> 1000 </val>
+</setvalue>
+
+<gofor>
+	<solutionint> 30.0 </solutionint>
+	<displayint> 30.0 </displayint>
+</gofor>
+
+<dumppoint><filename> Solutions\Firth\ANP1000.csv </filename><append/></dumppoint>
+
+===========================================================
+===========================================================
+<restart/>
+
+<setvalue>
+  <var> External.Pressure </var>
+  <val> 90 </val>
+</setvalue>
+
+<gofor>
+	<solutionint> 30.0 </solutionint>
+	<displayint> 30.0 </displayint>
+</gofor>
+
+
+<dumppoint><filename> Solutions\Firth\Base.csv </filename><append/></dumppoint>
+
+<setvalue>
+  <var> External.[ANP] </var>
+  <val> 50 </val>
+</setvalue>
+
+<gofor>
+	<solutionint> 30.0 </solutionint>
+	<displayint> 30.0 </displayint>
+</gofor>
+
+<dumppoint><filename> Solutions\Firth\ANP50.csv </filename><append/></dumppoint>
+
+<setvalue>
+  <var> External.[ANP] </var>
+  <val> 200 </val>
+</setvalue>
+
+<gofor>
+	<solutionint> 30.0 </solutionint>
+	<displayint> 30.0 </displayint>
+</gofor>
+
+<dumppoint><filename> Solutions\Firth\ANP200.csv </filename><append/></dumppoint>
+
+
+<setvalue>
+  <var> External.Furosemide </var>
+  <val> 1 </val>
+</setvalue>
+
+<gofor>
+	<solutionint> 30.0 </solutionint>
+	<displayint> 30.0 </displayint>
+</gofor>
+
+<dumppoint><filename> Solutions\Firth\Furo10.csv </filename><append/></dumppoint>
+
+<setvalue>
+  <var> External.Furosemide </var>
+  <val> 10 </val>
+</setvalue>
+
+<gofor>
+	<solutionint> 30.0 </solutionint>
+	<displayint> 30.0 </displayint>
+</gofor>
+
+<dumppoint><filename> Solutions\Firth\Furo100.csv </filename><append/></dumppoint>

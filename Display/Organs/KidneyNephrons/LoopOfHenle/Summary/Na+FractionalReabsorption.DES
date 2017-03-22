@@ -1,0 +1,51 @@
+HumMod / Na+FractionalReabsorption
+
+Created : 17-Mar-08
+Revised : 2013-03-17
+Author : Tom Coleman
+Copyright : 2006-2013
+By : University of Mississippi Medical Center
+
+<groupbox>
+   <row> 18.2 </row>
+   <col> 1.0 </col>
+   <high> 18.0 </high>
+   <wide> 30.0 </wide>
+   <title> Na+ Fractional Reabsorption </title>
+
+<structurename> LoopOfHenle_Na </structurename>
+
+<showvalue>
+  <row> 1.4 </row><col> 1.0 </col>
+  <name> RightLoopOfHenle_Na.RightFractReab </name>
+  <format><decimal> 3 </decimal></format>
+  <label> Right Fraction </label>
+</showvalue>
+
+
+<showbargraph>
+  <row> 3.8 </row><col> 1.0 </col><high> 12.0 </high><wide> 28 </wide>
+  <leftmargin> 9.5 </leftmargin>
+  <title> Effect </title>
+  <showinitialvalues/>
+  <bar><name> RightLoopOfHenle_Na.FlowEffect </name><label> Na+ Flow </label><color> BLUE </color></bar>
+  <bar><name> RightLoopOfHenle_Na.AldoEffect </name><label> [Aldo] </label><color> BLUE </color></bar>
+  <bar><name> RightLoopOfHenle_Na.FurosemideEffect </name><label> Furosemide </label><color> BLUE </color></bar>
+  <bar><name> RightKidney-Function.Effect </name><label> Function </label><color> BLUE </color></bar>
+  <bar><name> RightLoopOfHenle_Na.LoadEffect </name><label> Load </label><color> BLUE </color></bar>
+
+  <scale><min> 0 </min><max> 2 </max><inc> 1 </inc></scale>
+</showbargraph>
+
+<infobutton>
+  <row> 1.2 </row>
+  <col> 26.0 </col>
+
+  <line> Typical fraction is 0.760. </line>
+  <line>  </line>
+  <line> Typical effects are 1.0 x Normal. </line>
+</infobutton>
+
+</groupbox>
+
+End

@@ -1,0 +1,59 @@
+HumMod / Lung_CO2
+
+Created : 2012-07-14
+Revised : 2012-07-14
+Author : Tom Coleman
+Copyright : 2012-2012
+By : University Of Mississippi Medical Center
+
+<structure><name> Lung_CO2 </name>
+
+<variables>
+
+<var><name> Gain </name></var>
+<var><name> Loss </name></var>
+
+<var><name> [CO2] </name></var>
+<var><name> pCO2 </name></var>
+
+<var><name> [Capy] </name></var>
+<var><name> pCapy </name></var>
+
+<var><name> Diffused </name></var>
+
+<var><name> K </name></var>
+<parm><name> Mass </name><val> 100 </val></parm>
+
+</variables>
+
+<definitions>
+
+
+<block><name> Calc </name>
+  <def>
+    <name> [CO2] </name>
+    <val> Mass / 500 </val>
+  </def>
+
+  <def>
+    <name> pCO2 </name>
+    <val> [CO2] * 743 </val>
+  </def>
+
+  <def><name> pCapy </name><val> pCO2 </val></def>
+
+  <copy><from> pCapy </from><to> CO2Blood.pCO2 </to></copy>
+  <copy><from> External.[SID] </from><to> CO2Blood.[SID] </to></copy>
+    <call> CO2Blood.pCO2_To_[HCO3] </call>
+  <copy><from> CO2Blood.[HCO3] </from><to> [Capy] </to></copy>
+
+  <def><name> Diffused </name>
+    <val> External.FlowRate * ( CO2Veins.[HCO3] - [Capy] ) * CO2Tools.MolsToLiters </val>
+  </def>
+</block>
+
+
+</definitions>
+</structure>
+
+End

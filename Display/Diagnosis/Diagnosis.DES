@@ -1,0 +1,14 @@
+HumMod / Diagnosis
+
+Created : 2011-07-26
+Revised : 2013-02-12
+Author : Tom Coleman
+Copyright : 2011-2013
+By : University of Mississippi Medical Center
+
+<?path Display\Diagnosis\ ?>
+
+<?include Chart\Chart.DES ?>
+
+
+End

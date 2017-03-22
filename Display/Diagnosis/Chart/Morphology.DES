@@ -1,0 +1,32 @@
+HumMod / Morphology
+
+Created : 2014-02-25
+Revised : 2014-02-25
+Author : Tom Coleman
+Copyright : 2014-2014
+By : Tom Coleman
+
+
+
+
+<repeatlist>
+  <name> Perm </name>
+  <repeat><reps> 40 </reps><stepsize> 0.5 </stepsize></repeat>
+</repeatlist>
+
+<slidebar>
+  <row> 1.2 </row><col> 6.0 </col>
+  <name> RightGlomerulusFiltrate.Perm </name>
+  <listname>  Perm </listname>
+  <label> Perm </label>
+</slidebar>
+
+<showvalue>
+   <row> 2.4 </row><col> 1.0 </col>
+   <name> RightReninSecretion.VenousConc </name>
+   <format><decimal> 2 </decimal></format>
+   <label> Venous Renin </label>
+</showvalue>
+
+
+End

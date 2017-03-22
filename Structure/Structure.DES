@@ -1,0 +1,147 @@
+
+
+<?path Structure\ ?>
+
+<?include RightKidney\RightKidney.DES ?>
+<?include RightNephrons\RightNephrons.DES ?>
+<?include Metabolism\Metabolism.DES ?>
+<?include Catechols\Catechols.DES ?>
+<?include CellSID\CellSID.DES ?>
+<?include AcidBase\AcidBase.DES ?>
+<?include CO2\CO2.DES ?>
+<?include Hemoglobin\Hemoglobin.DES ?>
+<?include Insulin\Insulin.DES ?>
+<?include Renin\Renin.DES ?>
+<?include External.DES ?>
+
+<structure><name> Structure </name>
+<definitions>
+<block><name> Context </name>
+ <call> External.Calc </call>
+  <call> RightKidney-AfferentArtery.Init </call>
+  <call> RightKidney-EfferentArtery.Init </call>
+  <call> RightKidney-Metabolism.ScaleCals </call>
+  <call> RightKidney-Size.ScaleH2O </call>
+  <call> RightKidney-CO2.Init </call>
+  <call> RightReninFree.Init </call>
+  <call> RightReninGranules.Init </call>
+  <call> InsulinPool.Init </call>
+</block>
+
+<block><name> Parms </name>
+  <call> RightKidney-Myogenic.Parms </call>
+  <call> Renin.Parms </call>
+  <call> RightMedullaNa.Parms </call>
+  <call> RightMedullaUrea.Parms </call>
+</block>
+
+<block><name> Dervs </name>
+  <call> HgbConc.Calc </call>
+  <call> HgbTissue.Setup </call>
+
+  <call> RightKidney-Size.Calc </call>
+  <call> CO2.CalcConc </call>
+  <call> Insulin.CalcConc </call>
+  <call> Alpha1Pool.Calc </call>
+  <call> Beta1Pool.Calc </call>
+  <call> Beta2Pool.Calc </call>
+  <call> RightKidney-NephronCount.Calc </call>
+  <call> RightKidney-Pressure.Calc </call>
+
+  <call> RightDistalTubule_H2OChannels.CalcActive </call>
+  <call> RightCollectingDuct_H2OChannels.CalcActive </call>
+  <call> RightKidney-AlphaReceptors.Calc </call>
+  <call> RightKidney-BetaReceptors.Calc </call>
+
+  <call> RightKidney-Lactate.CalcConc </call>
+  <call> RightKidney-Ph.CalcSID </call>
+  <call> RightKidney-CO2.CalcConc </call>
+  <call> RightKidney-Ph.CalcPh </call>
+
+  <call> RightKidney-Function.Calc</call>
+  <call> Renin.CalcConc </call>
+
+  <call> RightKidney-ArcuateArtery.Calc </call>
+  <call> RightKidney-AfferentArtery.Calc </call>
+  <call> RightKidney-EfferentArtery.Calc </call>
+  <call> RightKidney-Flow.Calc </call>
+
+  <call> RightKidney-ArcuateArtery.Pressure </call>
+  <call> RightNephronIFP.Calc </call>
+
+  <call> RightGlomerulusFiltrate.Calc </call>
+  <call> RightNephronANP.Calc </call>
+  <call> RightProximalTubule_Na.Calc </call>
+  <call> RightProximalTubule_H2O.Calc </call>
+  <call> RightProximalTubule_Na.CalcConc </call>
+  <call> RightProximalTubule_NH3.Calc </call>
+  <call> MineralocorticoidReceptor.CalcBinding </call>
+  <call> RightNephronAldo.Calc </call>
+
+  <call> RightLoopOfHenle_Na.Calc </call>
+  <call> RightLoopOfHenle_H2O.Calc </call>
+  <call> RightLoopOfHenle_Na.CalcConc </call>
+  <call> RightMaculaDensa_Na.Calc </call>
+  <call> RightDistalTubule_Na.Calc </call>
+  <call> RightNephronADH.Calc </call>
+  <call> RightDistalTubule_K.Calc </call>
+  <call> RightDistalTubule_H2O.Calc </call>
+  <call> RightDistalTubule_Na.CalcConc </call>
+
+  <call> RightNephronCalciumProximal.Calc </call>
+  <call> RightNephronCalciumDistal.Calc </call>
+  <call> RightMedullaNa.CalcConc </call>
+  <call> RightMedullaUrea.CalcConc </call>
+  <call> RightMedulla.CalcOsm </call>
+
+  <call> RightKidney-Metabolism.CalcCals </call>
+
+
+  <call> RightKidney-Flow.Calc </call>
+  <call> RightKidney-TubuleO2.Calc </call>
+  <call> RightKidney-Metabolism.SplitCals </call>
+
+  <call> RightKidney-Fuel.Dervs </call>
+
+
+
+  <call> RightNephronGlucose.CalcSpillover </call>
+  <call> RightNephronKetoacids.CalcExcretion </call>
+
+  <call> RightKidney-Fuel.Calc </call>
+  <call> RightKidney-CO2.CalcDervs </call>
+
+  <call> RightCollectingDuct.Calc </call>
+  <call> RightVasaRecta.Calc </call>
+
+  <call> RightKidney-Structure.Calc </call>
+
+  <call> RightKidney-Lactate.CalcDervs </call>
+  <call> RightMedullaNa.Dervs </call>
+  <call> RightMedullaUrea.Dervs </call>
+  <call> RightDistalTubule_H2OChannels.CalcDervs </call>
+  <call> RightCollectingDuct_H2OChannels.CalcDervs </call>
+  <call> RightKidney-Zones.Calc </call>
+
+  <call> RightTGF-Vascular.Dervs </call>
+  <call> RightTGF-Renin.Dervs </call>
+  <call> Renin.Dervs </call>
+
+  <call> RightKidney-Myogenic.Dervs </call>
+
+  <call> CO2.Dervs </call>
+  <call> Insulin.LateDervs </call>
+
+</block>
+
+<block><name> Wrapup </name>
+
+  <call> RightKidney-ArcuateArtery.Wrapup </call>
+  <call> RightKidney-AfferentArtery.Wrapup </call>
+  <call> RightKidney-EfferentArtery.Wrapup </call>
+
+</block>
+
+</definitions>
+</structure>
+End

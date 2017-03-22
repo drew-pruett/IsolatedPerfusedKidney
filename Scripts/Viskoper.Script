@@ -1,0 +1,91 @@
+<script>
+
+<launch>
+  <solver> Model Solver.exe </solver>
+  <model> HumMod.DES </model>
+</launch>
+
+<restart/>
+<!--
+recirculating unit: 120 mL
+6.7% bovine albumin +  5 mmol/L glucose
+gassed with 95/5 O2/CO2
+perfuse at 90 or 130 mmHg
+ANP 50, 200, 1000 pM/L
+alt
+10/100 uM furosemide
+-->
+
+<restart/>
+
+<setvalue>
+  <var> External.Hct </var>
+  <val> 0.42 </val>
+</setvalue>
+
+<setvalue>
+  <var> External.FalseHct </var>
+  <val> 0 </val>
+</setvalue>
+
+<setvalue>
+  <var> External.[Pro] </var>
+  <val> 6.7 </val>
+</setvalue>
+
+<setvalue>
+  <var> External.Pressure </var>
+  <val> 80 </val>
+</setvalue>
+
+<gofor>
+	<solutionint> 30.0 </solutionint>
+	<displayint> 30.0 </displayint>
+</gofor>
+
+<dumppoint><filename> Solutions\Viskoper\Control80.csv </filename><append/></dumppoint>
+
+<setvalue>
+  <var> External.Isoproteronol </var>
+  <val> 0.05 </val>
+</setvalue>
+
+<dumppoint><filename> Solutions\Viskoper\Iso80.csv </filename><append/></dumppoint>
+
+<restart/>
+
+<setvalue>
+  <var> External.Hct </var>
+  <val> 0.42 </val>
+</setvalue>
+
+<setvalue>
+  <var> External.FalseHct </var>
+  <val> 0 </val>
+</setvalue>
+
+<setvalue>
+  <var> External.[Pro] </var>
+  <val> 6.7 </val>
+</setvalue>
+
+<setvalue>
+  <var> External.Pressure </var>
+  <val> 65 </val>
+</setvalue>
+
+<gofor>
+	<solutionint> 30.0 </solutionint>
+	<displayint> 30.0 </displayint>
+</gofor>
+
+<dumppoint><filename> Solutions\Viskoper\Control65.csv </filename><append/></dumppoint>
+
+<setvalue>
+  <var> External.Isoproteronol </var>
+  <val> 0.05 </val>
+</setvalue>
+
+<dumppoint><filename> Solutions\Viskoper\Iso65.csv </filename><append/></dumppoint>
+<exit>
+</script>
